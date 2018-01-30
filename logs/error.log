@@ -1,0 +1,1351 @@
+2018/01/30 04:59:42 [emerg] 2652#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2018/01/30 05:00:48 [emerg] 2721#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2018/01/30 05:03:33 [emerg] 2640#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2018/01/30 05:37:50 [emerg] 3403#0: "alias" directive is duplicate, "root" directive was specified earlier in /home/uladzislau/nginx/conf/nginx.conf:50
+2018/01/30 05:38:22 [emerg] 3425#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:55
+2018/01/30 05:39:33 [emerg] 3447#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:55
+2018/01/30 05:41:10 [emerg] 3496#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:55
+2018/01/30 05:42:00 [emerg] 3519#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:55
+2018/01/30 05:42:38 [error] 3544#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 05:42:38 [error] 3544#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 05:42:42 [error] 3544#0: *1 open() "/resources/pictures/01.jpg" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 05:42:49 [error] 3544#0: *1 open() "/resources/pictures/01.gif" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 05:42:53 [error] 3544#0: *1 open() "/home/uladzislau/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 05:42:57 [error] 3544#0: *1 open() "/home/uladzislau/nginx/html/status" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 05:43:10 [error] 3544#0: *1 "/resources/pictures/index.html" is not found (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/ HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 05:43:19 [error] 3544#0: *1 open() "/home/uladzislau/nginx/html/status" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 05:43:22 [error] 3544#0: *1 open() "/resources/pictures/01.jpg" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 05:59:54 [emerg] 4125#0: unknown log format "main" in /home/uladzislau/nginx/conf/nginx.conf:25
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [emerg] 4167#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [notice] 4167#0: try again to bind() after 500ms
+2018/01/30 06:00:19 [emerg] 4167#0: still could not bind()
+2018/01/30 06:00:19 [emerg] 4167#0: still could not bind()
+2018/01/30 06:00:19 [emerg] 4167#0: still could not bind()
+2018/01/30 06:00:30 [notice] 4174#0: signal process started
+2018/01/30 06:00:32 [notice] 4181#0: using the "epoll" event method
+2018/01/30 06:00:32 [notice] 4181#0: using the "epoll" event method
+2018/01/30 06:00:32 [notice] 4181#0: nginx/1.12.2
+2018/01/30 06:00:32 [notice] 4181#0: nginx/1.12.2
+2018/01/30 06:00:32 [notice] 4181#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 06:00:32 [notice] 4181#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 06:00:32 [notice] 4181#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 06:00:32 [notice] 4181#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 06:00:32 [notice] 4181#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 06:00:32 [notice] 4181#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 06:00:32 [notice] 4182#0: start worker processes
+2018/01/30 06:00:32 [notice] 4182#0: start worker processes
+2018/01/30 06:00:32 [notice] 4182#0: start worker process 4189
+2018/01/30 06:00:32 [notice] 4182#0: start worker process 4189
+2018/01/30 06:00:39 [error] 4189#0: *1 directory index of "/home/uladzislau/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:39 [error] 4189#0: *1 directory index of "/home/uladzislau/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:39 [error] 4189#0: *1 directory index of "/home/uladzislau/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:43 [error] 4189#0: *1 directory index of "/home/uladzislau/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:43 [error] 4189#0: *1 directory index of "/home/uladzislau/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:43 [error] 4189#0: *1 directory index of "/home/uladzislau/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:45 [error] 4189#0: *1 open() "/home/uladzislau/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:45 [error] 4189#0: *1 open() "/home/uladzislau/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:45 [error] 4189#0: *1 open() "/home/uladzislau/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:46 [error] 4189#0: *1 open() "/home/uladzislau/nginx/html/status" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:46 [error] 4189#0: *1 open() "/home/uladzislau/nginx/html/status" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:00:46 [error] 4189#0: *1 open() "/home/uladzislau/nginx/html/status" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:03:56 [emerg] 4430#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:50
+2018/01/30 06:05:07 [emerg] 4462#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:50
+2018/01/30 06:06:34 [emerg] 4485#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:49
+2018/01/30 06:06:48 [emerg] 4492#0: invalid number of arguments in "root" directive in /home/uladzislau/nginx/conf/nginx.conf:63
+2018/01/30 06:08:34 [notice] 4516#0: signal process started
+2018/01/30 06:08:34 [notice] 4182#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:08:34 [notice] 4182#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:08:34 [notice] 4182#0: reconfiguring
+2018/01/30 06:08:34 [notice] 4182#0: reconfiguring
+2018/01/30 06:08:34 [notice] 4182#0: using the "epoll" event method
+2018/01/30 06:08:34 [notice] 4182#0: using the "epoll" event method
+2018/01/30 06:08:34 [notice] 4182#0: start worker processes
+2018/01/30 06:08:34 [notice] 4182#0: start worker processes
+2018/01/30 06:08:34 [notice] 4182#0: start worker process 4517
+2018/01/30 06:08:34 [notice] 4182#0: start worker process 4517
+2018/01/30 06:08:35 [notice] 4189#0: gracefully shutting down
+2018/01/30 06:08:35 [notice] 4189#0: gracefully shutting down
+2018/01/30 06:08:35 [notice] 4189#0: exiting
+2018/01/30 06:08:35 [notice] 4189#0: exiting
+2018/01/30 06:08:35 [notice] 4189#0: exit
+2018/01/30 06:08:35 [notice] 4182#0: signal 17 (SIGCHLD) received
+2018/01/30 06:08:35 [notice] 4182#0: signal 17 (SIGCHLD) received
+2018/01/30 06:08:35 [notice] 4182#0: worker process 4189 exited with code 0
+2018/01/30 06:08:35 [notice] 4182#0: worker process 4189 exited with code 0
+2018/01/30 06:08:35 [notice] 4182#0: signal 29 (SIGIO) received
+2018/01/30 06:08:35 [notice] 4182#0: signal 29 (SIGIO) received
+2018/01/30 06:08:40 [info] 4517#0: *2 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:08:41 [info] 4517#0: *3 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:08:41 [info] 4517#0: *4 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:08:41 [info] 4517#0: *5 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:08:41 [info] 4517#0: *6 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:08:43 [error] 4517#0: *7 open() "/html/resources/pictures/01.jpg" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:08:43 [error] 4517#0: *7 open() "/html/resources/pictures/01.jpg" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:08:43 [error] 4517#0: *7 open() "/html/resources/pictures/01.jpg" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.jpg HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:08:45 [error] 4517#0: *7 open() "/html/resources/pictures/01.gif" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:08:45 [error] 4517#0: *7 open() "/html/resources/pictures/01.gif" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:08:45 [error] 4517#0: *7 open() "/html/resources/pictures/01.gif" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:10:42 [notice] 4517#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 06:10:42 [notice] 4517#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 06:10:42 [notice] 4517#0: signal 1 (SIGHUP) received, ignoring
+2018/01/30 06:10:42 [notice] 4517#0: signal 1 (SIGHUP) received, ignoring
+2018/01/30 06:10:42 [info] 4517#0: epoll_wait() failed (4: Interrupted system call)
+2018/01/30 06:10:42 [notice] 4517#0: exiting
+2018/01/30 06:10:42 [notice] 4517#0: exiting
+2018/01/30 06:10:42 [notice] 4517#0: exit
+2018/01/30 06:10:43 [notice] 4182#0: signal 17 (SIGCHLD) received
+2018/01/30 06:10:43 [notice] 4182#0: signal 17 (SIGCHLD) received
+2018/01/30 06:10:43 [notice] 4182#0: worker process 4517 exited with code 0
+2018/01/30 06:10:43 [notice] 4182#0: worker process 4517 exited with code 0
+2018/01/30 06:10:43 [notice] 4182#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 06:10:43 [notice] 4182#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 06:10:43 [notice] 4182#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:10:43 [notice] 4182#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:10:43 [notice] 4182#0: exit
+2018/01/30 06:10:43 [notice] 4182#0: exit
+2018/01/30 06:13:24 [notice] 2823#0: using the "epoll" event method
+2018/01/30 06:13:24 [notice] 2823#0: using the "epoll" event method
+2018/01/30 06:13:24 [notice] 2823#0: nginx/1.12.2
+2018/01/30 06:13:24 [notice] 2823#0: nginx/1.12.2
+2018/01/30 06:13:24 [notice] 2823#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 06:13:24 [notice] 2823#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 06:13:24 [notice] 2823#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 06:13:24 [notice] 2823#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 06:13:24 [notice] 2823#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 06:13:24 [notice] 2823#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 06:13:24 [notice] 2824#0: start worker processes
+2018/01/30 06:13:24 [notice] 2824#0: start worker processes
+2018/01/30 06:13:24 [notice] 2824#0: start worker process 2826
+2018/01/30 06:13:24 [notice] 2824#0: start worker process 2826
+2018/01/30 06:13:39 [error] 2826#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 06:13:39 [error] 2826#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 06:13:39 [error] 2826#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 06:20:47 [notice] 3121#0: signal process started
+2018/01/30 06:20:47 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:20:47 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:20:47 [notice] 2824#0: reconfiguring
+2018/01/30 06:20:47 [notice] 2824#0: reconfiguring
+2018/01/30 06:20:47 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:20:47 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:20:47 [notice] 2824#0: start worker processes
+2018/01/30 06:20:47 [notice] 2824#0: start worker processes
+2018/01/30 06:20:47 [notice] 2824#0: start worker process 3125
+2018/01/30 06:20:47 [notice] 2824#0: start worker process 3125
+2018/01/30 06:20:47 [notice] 2826#0: gracefully shutting down
+2018/01/30 06:20:47 [notice] 2826#0: gracefully shutting down
+2018/01/30 06:20:47 [notice] 2826#0: exiting
+2018/01/30 06:20:47 [notice] 2826#0: exiting
+2018/01/30 06:20:47 [notice] 2826#0: exit
+2018/01/30 06:20:47 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:20:47 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:20:47 [notice] 2824#0: worker process 2826 exited with code 0
+2018/01/30 06:20:47 [notice] 2824#0: worker process 2826 exited with code 0
+2018/01/30 06:20:47 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:20:47 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:22:12 [notice] 3147#0: signal process started
+2018/01/30 06:22:12 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:22:12 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:22:12 [notice] 2824#0: reconfiguring
+2018/01/30 06:22:12 [notice] 2824#0: reconfiguring
+2018/01/30 06:22:12 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:22:12 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:22:12 [notice] 2824#0: start worker processes
+2018/01/30 06:22:12 [notice] 2824#0: start worker processes
+2018/01/30 06:22:12 [notice] 2824#0: start worker process 3151
+2018/01/30 06:22:12 [notice] 2824#0: start worker process 3151
+2018/01/30 06:22:12 [notice] 3125#0: gracefully shutting down
+2018/01/30 06:22:12 [notice] 3125#0: gracefully shutting down
+2018/01/30 06:22:12 [notice] 3125#0: exiting
+2018/01/30 06:22:12 [notice] 3125#0: exiting
+2018/01/30 06:22:12 [notice] 3125#0: exit
+2018/01/30 06:22:12 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:22:12 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:22:12 [notice] 2824#0: worker process 3125 exited with code 0
+2018/01/30 06:22:12 [notice] 2824#0: worker process 3125 exited with code 0
+2018/01/30 06:22:12 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:22:12 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:13 [notice] 3248#0: signal process started
+2018/01/30 06:28:13 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:13 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:13 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:13 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:13 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:13 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:13 [notice] 2824#0: start worker processes
+2018/01/30 06:28:13 [notice] 2824#0: start worker processes
+2018/01/30 06:28:13 [notice] 2824#0: start worker process 3249
+2018/01/30 06:28:13 [notice] 2824#0: start worker process 3249
+2018/01/30 06:28:13 [notice] 3151#0: gracefully shutting down
+2018/01/30 06:28:13 [notice] 3151#0: gracefully shutting down
+2018/01/30 06:28:13 [notice] 3151#0: exiting
+2018/01/30 06:28:13 [notice] 3151#0: exiting
+2018/01/30 06:28:13 [notice] 3151#0: exit
+2018/01/30 06:28:13 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:13 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:13 [notice] 2824#0: worker process 3151 exited with code 0
+2018/01/30 06:28:13 [notice] 2824#0: worker process 3151 exited with code 0
+2018/01/30 06:28:13 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:13 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:49 [notice] 3256#0: signal process started
+2018/01/30 06:28:49 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:49 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:49 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:49 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:49 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:49 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:49 [notice] 2824#0: start worker processes
+2018/01/30 06:28:49 [notice] 2824#0: start worker processes
+2018/01/30 06:28:49 [notice] 2824#0: start worker process 3260
+2018/01/30 06:28:49 [notice] 2824#0: start worker process 3260
+2018/01/30 06:28:49 [notice] 3249#0: gracefully shutting down
+2018/01/30 06:28:49 [notice] 3249#0: gracefully shutting down
+2018/01/30 06:28:49 [notice] 3249#0: exiting
+2018/01/30 06:28:49 [notice] 3249#0: exiting
+2018/01/30 06:28:49 [notice] 3249#0: exit
+2018/01/30 06:28:49 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:49 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:49 [notice] 2824#0: worker process 3249 exited with code 0
+2018/01/30 06:28:49 [notice] 2824#0: worker process 3249 exited with code 0
+2018/01/30 06:28:49 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:49 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:50 [notice] 3264#0: signal process started
+2018/01/30 06:28:50 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:50 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:50 [notice] 2824#0: start worker processes
+2018/01/30 06:28:50 [notice] 2824#0: start worker processes
+2018/01/30 06:28:50 [notice] 2824#0: start worker process 3265
+2018/01/30 06:28:50 [notice] 2824#0: start worker process 3265
+2018/01/30 06:28:50 [notice] 3260#0: gracefully shutting down
+2018/01/30 06:28:50 [notice] 3260#0: gracefully shutting down
+2018/01/30 06:28:50 [notice] 3260#0: exiting
+2018/01/30 06:28:50 [notice] 3260#0: exiting
+2018/01/30 06:28:50 [notice] 3260#0: exit
+2018/01/30 06:28:50 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:50 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:50 [notice] 2824#0: worker process 3260 exited with code 0
+2018/01/30 06:28:50 [notice] 2824#0: worker process 3260 exited with code 0
+2018/01/30 06:28:50 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:50 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:50 [notice] 3272#0: signal process started
+2018/01/30 06:28:50 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:50 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:50 [notice] 2824#0: start worker processes
+2018/01/30 06:28:50 [notice] 2824#0: start worker processes
+2018/01/30 06:28:50 [notice] 2824#0: start worker process 3276
+2018/01/30 06:28:50 [notice] 2824#0: start worker process 3276
+2018/01/30 06:28:50 [notice] 3265#0: gracefully shutting down
+2018/01/30 06:28:50 [notice] 3265#0: gracefully shutting down
+2018/01/30 06:28:50 [notice] 3265#0: exiting
+2018/01/30 06:28:50 [notice] 3265#0: exiting
+2018/01/30 06:28:50 [notice] 3265#0: exit
+2018/01/30 06:28:50 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:50 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:50 [notice] 2824#0: worker process 3265 exited with code 0
+2018/01/30 06:28:50 [notice] 2824#0: worker process 3265 exited with code 0
+2018/01/30 06:28:50 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:50 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:50 [notice] 3280#0: signal process started
+2018/01/30 06:28:50 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: reconfiguring
+2018/01/30 06:28:50 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:50 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:28:50 [notice] 2824#0: start worker processes
+2018/01/30 06:28:50 [notice] 2824#0: start worker processes
+2018/01/30 06:28:50 [notice] 2824#0: start worker process 3284
+2018/01/30 06:28:50 [notice] 2824#0: start worker process 3284
+2018/01/30 06:28:50 [notice] 3276#0: gracefully shutting down
+2018/01/30 06:28:50 [notice] 3276#0: gracefully shutting down
+2018/01/30 06:28:50 [notice] 3276#0: exiting
+2018/01/30 06:28:50 [notice] 3276#0: exiting
+2018/01/30 06:28:50 [notice] 3276#0: exit
+2018/01/30 06:28:50 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:50 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:28:50 [notice] 2824#0: worker process 3276 exited with code 0
+2018/01/30 06:28:50 [notice] 2824#0: worker process 3276 exited with code 0
+2018/01/30 06:28:50 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:50 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:28:55 [info] 3284#0: *7 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:28:55 [info] 3284#0: *8 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:28:56 [info] 3284#0: *9 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:28:56 [info] 3284#0: *10 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:28:56 [info] 3284#0: *11 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:31:55 [notice] 3344#0: signal process started
+2018/01/30 06:31:55 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:31:55 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:31:55 [notice] 2824#0: reconfiguring
+2018/01/30 06:31:55 [notice] 2824#0: reconfiguring
+2018/01/30 06:31:55 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:31:55 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:31:55 [notice] 2824#0: start worker processes
+2018/01/30 06:31:55 [notice] 2824#0: start worker processes
+2018/01/30 06:31:55 [notice] 2824#0: start worker process 3348
+2018/01/30 06:31:55 [notice] 2824#0: start worker process 3348
+2018/01/30 06:31:55 [notice] 3284#0: gracefully shutting down
+2018/01/30 06:31:55 [notice] 3284#0: gracefully shutting down
+2018/01/30 06:31:55 [notice] 3284#0: exiting
+2018/01/30 06:31:55 [notice] 3284#0: exiting
+2018/01/30 06:31:55 [notice] 3284#0: exit
+2018/01/30 06:31:55 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:31:55 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:31:55 [notice] 2824#0: worker process 3284 exited with code 0
+2018/01/30 06:31:55 [notice] 2824#0: worker process 3284 exited with code 0
+2018/01/30 06:31:55 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:31:55 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:31:55 [notice] 3352#0: signal process started
+2018/01/30 06:31:55 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:31:55 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:31:55 [notice] 2824#0: reconfiguring
+2018/01/30 06:31:55 [notice] 2824#0: reconfiguring
+2018/01/30 06:31:55 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:31:55 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:31:55 [notice] 2824#0: start worker processes
+2018/01/30 06:31:55 [notice] 2824#0: start worker processes
+2018/01/30 06:31:55 [notice] 2824#0: start worker process 3354
+2018/01/30 06:31:55 [notice] 2824#0: start worker process 3354
+2018/01/30 06:31:55 [notice] 3348#0: gracefully shutting down
+2018/01/30 06:31:55 [notice] 3348#0: gracefully shutting down
+2018/01/30 06:31:55 [notice] 3348#0: exiting
+2018/01/30 06:31:55 [notice] 3348#0: exiting
+2018/01/30 06:31:55 [notice] 3348#0: exit
+2018/01/30 06:31:55 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:31:55 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:31:55 [notice] 2824#0: worker process 3348 exited with code 0
+2018/01/30 06:31:55 [notice] 2824#0: worker process 3348 exited with code 0
+2018/01/30 06:31:55 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:31:55 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:31:56 [notice] 3360#0: signal process started
+2018/01/30 06:31:56 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:31:56 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:31:56 [notice] 2824#0: reconfiguring
+2018/01/30 06:31:56 [notice] 2824#0: reconfiguring
+2018/01/30 06:31:56 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:31:56 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:31:56 [notice] 2824#0: start worker processes
+2018/01/30 06:31:56 [notice] 2824#0: start worker processes
+2018/01/30 06:31:56 [notice] 2824#0: start worker process 3364
+2018/01/30 06:31:56 [notice] 2824#0: start worker process 3364
+2018/01/30 06:31:56 [notice] 3354#0: gracefully shutting down
+2018/01/30 06:31:56 [notice] 3354#0: gracefully shutting down
+2018/01/30 06:31:56 [notice] 3354#0: exiting
+2018/01/30 06:31:56 [notice] 3354#0: exiting
+2018/01/30 06:31:56 [notice] 3354#0: exit
+2018/01/30 06:31:56 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:31:56 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:31:56 [notice] 2824#0: worker process 3354 exited with code 0
+2018/01/30 06:31:56 [notice] 2824#0: worker process 3354 exited with code 0
+2018/01/30 06:31:56 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:31:56 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:31:59 [info] 3364#0: *13 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:31:59 [info] 3364#0: *14 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:31:59 [info] 3364#0: *15 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:32:00 [info] 3364#0: *16 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:35:36 [notice] 3413#0: signal process started
+2018/01/30 06:35:36 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:35:36 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:35:36 [notice] 2824#0: reconfiguring
+2018/01/30 06:35:36 [notice] 2824#0: reconfiguring
+2018/01/30 06:35:36 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:35:36 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:35:36 [notice] 2824#0: start worker processes
+2018/01/30 06:35:36 [notice] 2824#0: start worker processes
+2018/01/30 06:35:36 [notice] 2824#0: start worker process 3417
+2018/01/30 06:35:36 [notice] 2824#0: start worker process 3417
+2018/01/30 06:35:37 [notice] 3364#0: gracefully shutting down
+2018/01/30 06:35:37 [notice] 3364#0: gracefully shutting down
+2018/01/30 06:35:37 [notice] 3364#0: exiting
+2018/01/30 06:35:37 [notice] 3364#0: exiting
+2018/01/30 06:35:37 [notice] 3364#0: exit
+2018/01/30 06:35:37 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:35:37 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:35:37 [notice] 2824#0: worker process 3364 exited with code 0
+2018/01/30 06:35:37 [notice] 2824#0: worker process 3364 exited with code 0
+2018/01/30 06:35:37 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:35:37 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:35:37 [notice] 3421#0: signal process started
+2018/01/30 06:35:37 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:35:37 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:35:37 [notice] 2824#0: reconfiguring
+2018/01/30 06:35:37 [notice] 2824#0: reconfiguring
+2018/01/30 06:35:37 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:35:37 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:35:37 [notice] 2824#0: start worker processes
+2018/01/30 06:35:37 [notice] 2824#0: start worker processes
+2018/01/30 06:35:37 [notice] 2824#0: start worker process 3425
+2018/01/30 06:35:37 [notice] 2824#0: start worker process 3425
+2018/01/30 06:35:37 [notice] 3417#0: gracefully shutting down
+2018/01/30 06:35:37 [notice] 3417#0: gracefully shutting down
+2018/01/30 06:35:37 [notice] 3417#0: exiting
+2018/01/30 06:35:37 [notice] 3417#0: exiting
+2018/01/30 06:35:37 [notice] 3417#0: exit
+2018/01/30 06:35:37 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:35:37 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:35:37 [notice] 2824#0: worker process 3417 exited with code 0
+2018/01/30 06:35:37 [notice] 2824#0: worker process 3417 exited with code 0
+2018/01/30 06:35:37 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:35:37 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:35:38 [notice] 3429#0: signal process started
+2018/01/30 06:35:38 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:35:38 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:35:38 [notice] 2824#0: reconfiguring
+2018/01/30 06:35:38 [notice] 2824#0: reconfiguring
+2018/01/30 06:35:38 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:35:38 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:35:38 [notice] 2824#0: start worker processes
+2018/01/30 06:35:38 [notice] 2824#0: start worker processes
+2018/01/30 06:35:38 [notice] 2824#0: start worker process 3433
+2018/01/30 06:35:38 [notice] 2824#0: start worker process 3433
+2018/01/30 06:35:38 [notice] 3425#0: gracefully shutting down
+2018/01/30 06:35:38 [notice] 3425#0: gracefully shutting down
+2018/01/30 06:35:38 [notice] 3425#0: exiting
+2018/01/30 06:35:38 [notice] 3425#0: exiting
+2018/01/30 06:35:38 [notice] 3425#0: exit
+2018/01/30 06:35:38 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:35:38 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:35:38 [notice] 2824#0: worker process 3425 exited with code 0
+2018/01/30 06:35:38 [notice] 2824#0: worker process 3425 exited with code 0
+2018/01/30 06:35:38 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:35:38 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:35:38 [notice] 3437#0: signal process started
+2018/01/30 06:35:38 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:35:38 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:35:38 [notice] 2824#0: reconfiguring
+2018/01/30 06:35:38 [notice] 2824#0: reconfiguring
+2018/01/30 06:35:38 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:35:38 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:35:38 [notice] 2824#0: start worker processes
+2018/01/30 06:35:38 [notice] 2824#0: start worker processes
+2018/01/30 06:35:38 [notice] 2824#0: start worker process 3441
+2018/01/30 06:35:38 [notice] 2824#0: start worker process 3441
+2018/01/30 06:35:38 [notice] 3433#0: gracefully shutting down
+2018/01/30 06:35:38 [notice] 3433#0: gracefully shutting down
+2018/01/30 06:35:38 [notice] 3433#0: exiting
+2018/01/30 06:35:38 [notice] 3433#0: exiting
+2018/01/30 06:35:38 [notice] 3433#0: exit
+2018/01/30 06:35:38 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:35:38 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:35:38 [notice] 2824#0: worker process 3433 exited with code 0
+2018/01/30 06:35:38 [notice] 2824#0: worker process 3433 exited with code 0
+2018/01/30 06:35:38 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:35:38 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:35:45 [info] 3441#0: *24 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:36:04 [error] 3441#0: *25 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 06:36:04 [error] 3441#0: *25 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 06:36:04 [error] 3441#0: *25 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 06:38:32 [notice] 3607#0: signal process started
+2018/01/30 06:38:32 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:38:32 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:38:32 [notice] 2824#0: reconfiguring
+2018/01/30 06:38:32 [notice] 2824#0: reconfiguring
+2018/01/30 06:38:32 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:38:32 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:38:32 [notice] 2824#0: start worker processes
+2018/01/30 06:38:32 [notice] 2824#0: start worker processes
+2018/01/30 06:38:32 [notice] 2824#0: start worker process 3611
+2018/01/30 06:38:32 [notice] 2824#0: start worker process 3611
+2018/01/30 06:38:32 [notice] 3441#0: gracefully shutting down
+2018/01/30 06:38:32 [notice] 3441#0: gracefully shutting down
+2018/01/30 06:38:32 [notice] 3441#0: exiting
+2018/01/30 06:38:32 [notice] 3441#0: exiting
+2018/01/30 06:38:32 [notice] 3441#0: exit
+2018/01/30 06:38:32 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:38:32 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:38:32 [notice] 2824#0: worker process 3441 exited with code 0
+2018/01/30 06:38:32 [notice] 2824#0: worker process 3441 exited with code 0
+2018/01/30 06:38:32 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:38:32 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:38:32 [notice] 3615#0: signal process started
+2018/01/30 06:38:32 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:38:32 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:38:32 [notice] 2824#0: reconfiguring
+2018/01/30 06:38:32 [notice] 2824#0: reconfiguring
+2018/01/30 06:38:32 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:38:32 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:38:32 [notice] 2824#0: start worker processes
+2018/01/30 06:38:32 [notice] 2824#0: start worker processes
+2018/01/30 06:38:32 [notice] 2824#0: start worker process 3619
+2018/01/30 06:38:32 [notice] 2824#0: start worker process 3619
+2018/01/30 06:38:32 [notice] 3611#0: gracefully shutting down
+2018/01/30 06:38:32 [notice] 3611#0: gracefully shutting down
+2018/01/30 06:38:32 [notice] 3611#0: exiting
+2018/01/30 06:38:32 [notice] 3611#0: exiting
+2018/01/30 06:38:32 [notice] 3611#0: exit
+2018/01/30 06:38:32 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:38:32 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:38:32 [notice] 2824#0: worker process 3611 exited with code 0
+2018/01/30 06:38:32 [notice] 2824#0: worker process 3611 exited with code 0
+2018/01/30 06:38:32 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:38:32 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:38:33 [notice] 3623#0: signal process started
+2018/01/30 06:38:33 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:38:33 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:38:33 [notice] 2824#0: reconfiguring
+2018/01/30 06:38:33 [notice] 2824#0: reconfiguring
+2018/01/30 06:38:33 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:38:33 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:38:33 [notice] 2824#0: start worker processes
+2018/01/30 06:38:33 [notice] 2824#0: start worker processes
+2018/01/30 06:38:33 [notice] 2824#0: start worker process 3624
+2018/01/30 06:38:33 [notice] 2824#0: start worker process 3624
+2018/01/30 06:38:33 [notice] 3619#0: gracefully shutting down
+2018/01/30 06:38:33 [notice] 3619#0: gracefully shutting down
+2018/01/30 06:38:33 [notice] 3619#0: exiting
+2018/01/30 06:38:33 [notice] 3619#0: exiting
+2018/01/30 06:38:33 [notice] 3619#0: exit
+2018/01/30 06:38:33 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:38:33 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:38:33 [notice] 2824#0: worker process 3619 exited with code 0
+2018/01/30 06:38:33 [notice] 2824#0: worker process 3619 exited with code 0
+2018/01/30 06:38:33 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:38:33 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:38:53 [error] 3624#0: *26 open() "/home/uladzislau/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:38:53 [error] 3624#0: *26 open() "/home/uladzislau/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:38:53 [error] 3624#0: *26 open() "/home/uladzislau/nginx/html/admin" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 06:40:57 [notice] 3672#0: signal process started
+2018/01/30 06:40:57 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:40:57 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:40:57 [notice] 2824#0: reconfiguring
+2018/01/30 06:40:57 [notice] 2824#0: reconfiguring
+2018/01/30 06:40:57 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:40:57 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:40:57 [notice] 2824#0: start worker processes
+2018/01/30 06:40:57 [notice] 2824#0: start worker processes
+2018/01/30 06:40:57 [notice] 2824#0: start worker process 3676
+2018/01/30 06:40:57 [notice] 2824#0: start worker process 3676
+2018/01/30 06:40:58 [notice] 3624#0: gracefully shutting down
+2018/01/30 06:40:58 [notice] 3624#0: gracefully shutting down
+2018/01/30 06:40:58 [notice] 3624#0: exiting
+2018/01/30 06:40:58 [notice] 3624#0: exiting
+2018/01/30 06:40:58 [notice] 3624#0: exit
+2018/01/30 06:40:58 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:40:58 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:40:58 [notice] 2824#0: worker process 3624 exited with code 0
+2018/01/30 06:40:58 [notice] 2824#0: worker process 3624 exited with code 0
+2018/01/30 06:40:58 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:40:58 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:00 [notice] 3817#0: signal process started
+2018/01/30 06:49:00 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:49:00 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:49:00 [notice] 2824#0: reconfiguring
+2018/01/30 06:49:00 [notice] 2824#0: reconfiguring
+2018/01/30 06:49:00 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:49:00 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:49:00 [notice] 2824#0: start worker processes
+2018/01/30 06:49:00 [notice] 2824#0: start worker processes
+2018/01/30 06:49:00 [notice] 2824#0: start worker process 3821
+2018/01/30 06:49:00 [notice] 2824#0: start worker process 3821
+2018/01/30 06:49:00 [notice] 3676#0: gracefully shutting down
+2018/01/30 06:49:00 [notice] 3676#0: gracefully shutting down
+2018/01/30 06:49:00 [notice] 3676#0: exiting
+2018/01/30 06:49:00 [notice] 3676#0: exiting
+2018/01/30 06:49:00 [notice] 3676#0: exit
+2018/01/30 06:49:00 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:49:00 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:49:00 [notice] 2824#0: worker process 3676 exited with code 0
+2018/01/30 06:49:00 [notice] 2824#0: worker process 3676 exited with code 0
+2018/01/30 06:49:00 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:00 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:01 [notice] 3825#0: signal process started
+2018/01/30 06:49:01 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:49:01 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:49:01 [notice] 2824#0: reconfiguring
+2018/01/30 06:49:01 [notice] 2824#0: reconfiguring
+2018/01/30 06:49:01 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:49:01 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:49:01 [notice] 2824#0: start worker processes
+2018/01/30 06:49:01 [notice] 2824#0: start worker processes
+2018/01/30 06:49:01 [notice] 2824#0: start worker process 3829
+2018/01/30 06:49:01 [notice] 2824#0: start worker process 3829
+2018/01/30 06:49:01 [notice] 3821#0: gracefully shutting down
+2018/01/30 06:49:01 [notice] 3821#0: gracefully shutting down
+2018/01/30 06:49:01 [notice] 3821#0: exiting
+2018/01/30 06:49:01 [notice] 3821#0: exiting
+2018/01/30 06:49:01 [notice] 3821#0: exit
+2018/01/30 06:49:01 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:49:01 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:49:01 [notice] 2824#0: worker process 3821 exited with code 0
+2018/01/30 06:49:01 [notice] 2824#0: worker process 3821 exited with code 0
+2018/01/30 06:49:01 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:01 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:01 [notice] 3833#0: signal process started
+2018/01/30 06:49:01 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:49:01 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:49:01 [notice] 2824#0: reconfiguring
+2018/01/30 06:49:01 [notice] 2824#0: reconfiguring
+2018/01/30 06:49:01 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:49:01 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:49:01 [notice] 2824#0: start worker processes
+2018/01/30 06:49:01 [notice] 2824#0: start worker processes
+2018/01/30 06:49:01 [notice] 2824#0: start worker process 3834
+2018/01/30 06:49:01 [notice] 2824#0: start worker process 3834
+2018/01/30 06:49:02 [notice] 3829#0: gracefully shutting down
+2018/01/30 06:49:02 [notice] 3829#0: gracefully shutting down
+2018/01/30 06:49:02 [notice] 3829#0: exiting
+2018/01/30 06:49:02 [notice] 3829#0: exiting
+2018/01/30 06:49:02 [notice] 3829#0: exit
+2018/01/30 06:49:02 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:49:02 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:49:02 [notice] 2824#0: worker process 3829 exited with code 0
+2018/01/30 06:49:02 [notice] 2824#0: worker process 3829 exited with code 0
+2018/01/30 06:49:02 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:02 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:05 [info] 3834#0: *28 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:49:05 [info] 3834#0: *29 client 192.168.122.210 closed keepalive connection
+2018/01/30 06:49:42 [notice] 3853#0: signal process started
+2018/01/30 06:49:42 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:49:42 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 06:49:42 [notice] 2824#0: reconfiguring
+2018/01/30 06:49:42 [notice] 2824#0: reconfiguring
+2018/01/30 06:49:42 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:49:42 [notice] 2824#0: using the "epoll" event method
+2018/01/30 06:49:42 [notice] 2824#0: start worker processes
+2018/01/30 06:49:42 [notice] 2824#0: start worker processes
+2018/01/30 06:49:42 [notice] 2824#0: start worker process 3857
+2018/01/30 06:49:42 [notice] 2824#0: start worker process 3857
+2018/01/30 06:49:42 [notice] 3834#0: gracefully shutting down
+2018/01/30 06:49:42 [notice] 3834#0: gracefully shutting down
+2018/01/30 06:49:42 [notice] 3834#0: exiting
+2018/01/30 06:49:42 [notice] 3834#0: exiting
+2018/01/30 06:49:42 [notice] 3834#0: exit
+2018/01/30 06:49:42 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:49:42 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 06:49:42 [notice] 2824#0: worker process 3834 exited with code 0
+2018/01/30 06:49:42 [notice] 2824#0: worker process 3834 exited with code 0
+2018/01/30 06:49:42 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:42 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 06:49:57 [info] 3857#0: *31 client 192.168.122.210 closed keepalive connection
+2018/01/30 07:09:48 [notice] 4178#0: signal process started
+2018/01/30 07:09:48 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:09:48 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:09:48 [notice] 2824#0: reconfiguring
+2018/01/30 07:09:48 [notice] 2824#0: reconfiguring
+2018/01/30 07:09:48 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:09:48 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:09:48 [notice] 2824#0: start worker processes
+2018/01/30 07:09:48 [notice] 2824#0: start worker processes
+2018/01/30 07:09:48 [notice] 2824#0: start worker process 4182
+2018/01/30 07:09:48 [notice] 2824#0: start worker process 4182
+2018/01/30 07:09:48 [notice] 3857#0: gracefully shutting down
+2018/01/30 07:09:48 [notice] 3857#0: gracefully shutting down
+2018/01/30 07:09:48 [notice] 3857#0: exiting
+2018/01/30 07:09:48 [notice] 3857#0: exiting
+2018/01/30 07:09:48 [notice] 3857#0: exit
+2018/01/30 07:09:48 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:09:48 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:09:48 [notice] 2824#0: worker process 3857 exited with code 0
+2018/01/30 07:09:48 [notice] 2824#0: worker process 3857 exited with code 0
+2018/01/30 07:09:48 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:09:48 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:09:51 [info] 4182#0: *33 client 192.168.122.210 closed keepalive connection
+2018/01/30 07:09:51 [info] 4182#0: *34 client 192.168.122.210 closed keepalive connection
+2018/01/30 07:09:51 [info] 4182#0: *35 client 192.168.122.210 closed keepalive connection
+2018/01/30 07:10:31 [notice] 4214#0: signal process started
+2018/01/30 07:10:31 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:10:31 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:10:31 [notice] 2824#0: reconfiguring
+2018/01/30 07:10:31 [notice] 2824#0: reconfiguring
+2018/01/30 07:10:31 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:10:31 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:10:31 [notice] 2824#0: start worker processes
+2018/01/30 07:10:31 [notice] 2824#0: start worker processes
+2018/01/30 07:10:31 [notice] 2824#0: start worker process 4218
+2018/01/30 07:10:31 [notice] 2824#0: start worker process 4218
+2018/01/30 07:10:32 [notice] 4182#0: gracefully shutting down
+2018/01/30 07:10:32 [notice] 4182#0: gracefully shutting down
+2018/01/30 07:10:32 [notice] 4182#0: exiting
+2018/01/30 07:10:32 [notice] 4182#0: exiting
+2018/01/30 07:10:32 [notice] 4182#0: exit
+2018/01/30 07:10:32 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:10:32 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:10:32 [notice] 2824#0: worker process 4182 exited with code 0
+2018/01/30 07:10:32 [notice] 2824#0: worker process 4182 exited with code 0
+2018/01/30 07:10:32 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:10:32 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:10:32 [notice] 4222#0: signal process started
+2018/01/30 07:10:32 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:10:32 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:10:32 [notice] 2824#0: reconfiguring
+2018/01/30 07:10:32 [notice] 2824#0: reconfiguring
+2018/01/30 07:10:32 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:10:32 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:10:32 [notice] 2824#0: start worker processes
+2018/01/30 07:10:32 [notice] 2824#0: start worker processes
+2018/01/30 07:10:32 [notice] 2824#0: start worker process 4226
+2018/01/30 07:10:32 [notice] 2824#0: start worker process 4226
+2018/01/30 07:10:32 [notice] 4218#0: gracefully shutting down
+2018/01/30 07:10:32 [notice] 4218#0: gracefully shutting down
+2018/01/30 07:10:32 [notice] 4218#0: exiting
+2018/01/30 07:10:32 [notice] 4218#0: exiting
+2018/01/30 07:10:32 [notice] 4218#0: exit
+2018/01/30 07:10:32 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:10:32 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:10:32 [notice] 2824#0: worker process 4218 exited with code 0
+2018/01/30 07:10:32 [notice] 2824#0: worker process 4218 exited with code 0
+2018/01/30 07:10:32 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:10:32 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:10:34 [info] 4226#0: *37 client 192.168.122.210 closed keepalive connection
+2018/01/30 07:11:34 [notice] 4240#0: signal process started
+2018/01/30 07:11:34 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:11:34 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:11:34 [notice] 2824#0: reconfiguring
+2018/01/30 07:11:34 [notice] 2824#0: reconfiguring
+2018/01/30 07:11:34 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:11:34 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:11:34 [notice] 2824#0: start worker processes
+2018/01/30 07:11:34 [notice] 2824#0: start worker processes
+2018/01/30 07:11:34 [notice] 2824#0: start worker process 4244
+2018/01/30 07:11:34 [notice] 2824#0: start worker process 4244
+2018/01/30 07:11:34 [notice] 4226#0: gracefully shutting down
+2018/01/30 07:11:34 [notice] 4226#0: gracefully shutting down
+2018/01/30 07:11:34 [notice] 4226#0: exiting
+2018/01/30 07:11:34 [notice] 4226#0: exiting
+2018/01/30 07:11:34 [notice] 4226#0: exit
+2018/01/30 07:11:34 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:11:34 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:11:34 [notice] 2824#0: worker process 4226 exited with code 0
+2018/01/30 07:11:34 [notice] 2824#0: worker process 4226 exited with code 0
+2018/01/30 07:11:34 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:11:34 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:17:16 [info] 4244#0: *40 client 192.168.122.210 closed keepalive connection
+2018/01/30 07:17:16 [info] 4244#0: *41 client 192.168.122.210 closed keepalive connection
+2018/01/30 07:17:16 [info] 4244#0: *42 client 192.168.122.210 closed keepalive connection
+2018/01/30 07:17:18 [notice] 4318#0: signal process started
+2018/01/30 07:17:18 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:17:18 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:17:18 [notice] 2824#0: reconfiguring
+2018/01/30 07:17:18 [notice] 2824#0: reconfiguring
+2018/01/30 07:17:18 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:17:18 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:17:18 [notice] 2824#0: start worker processes
+2018/01/30 07:17:18 [notice] 2824#0: start worker processes
+2018/01/30 07:17:18 [notice] 2824#0: start worker process 4322
+2018/01/30 07:17:18 [notice] 2824#0: start worker process 4322
+2018/01/30 07:17:19 [notice] 4244#0: gracefully shutting down
+2018/01/30 07:17:19 [notice] 4244#0: gracefully shutting down
+2018/01/30 07:17:19 [notice] 4244#0: exiting
+2018/01/30 07:17:19 [notice] 4244#0: exiting
+2018/01/30 07:17:19 [notice] 4244#0: exit
+2018/01/30 07:17:19 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:17:19 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:17:19 [notice] 2824#0: worker process 4244 exited with code 0
+2018/01/30 07:17:19 [notice] 2824#0: worker process 4244 exited with code 0
+2018/01/30 07:17:19 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:17:19 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:19:12 [notice] 4364#0: signal process started
+2018/01/30 07:19:12 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:19:12 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:19:12 [notice] 2824#0: reconfiguring
+2018/01/30 07:19:12 [notice] 2824#0: reconfiguring
+2018/01/30 07:19:12 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:19:12 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:19:12 [notice] 2824#0: start worker processes
+2018/01/30 07:19:12 [notice] 2824#0: start worker processes
+2018/01/30 07:19:12 [notice] 2824#0: start worker process 4368
+2018/01/30 07:19:12 [notice] 2824#0: start worker process 4368
+2018/01/30 07:19:12 [notice] 4322#0: gracefully shutting down
+2018/01/30 07:19:12 [notice] 4322#0: gracefully shutting down
+2018/01/30 07:19:12 [notice] 4322#0: exiting
+2018/01/30 07:19:12 [notice] 4322#0: exiting
+2018/01/30 07:19:12 [notice] 4322#0: exit
+2018/01/30 07:19:12 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:19:12 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:19:12 [notice] 2824#0: worker process 4322 exited with code 0
+2018/01/30 07:19:12 [notice] 2824#0: worker process 4322 exited with code 0
+2018/01/30 07:19:12 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:19:12 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:19:34 [error] 4368#0: *45 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:19:34 [error] 4368#0: *45 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:19:34 [error] 4368#0: *45 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:22:59 [notice] 4564#0: signal process started
+2018/01/30 07:22:59 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:22:59 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:22:59 [notice] 2824#0: reconfiguring
+2018/01/30 07:22:59 [notice] 2824#0: reconfiguring
+2018/01/30 07:22:59 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:22:59 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:22:59 [notice] 2824#0: start worker processes
+2018/01/30 07:22:59 [notice] 2824#0: start worker processes
+2018/01/30 07:22:59 [notice] 2824#0: start worker process 4568
+2018/01/30 07:22:59 [notice] 2824#0: start worker process 4568
+2018/01/30 07:22:59 [notice] 4368#0: gracefully shutting down
+2018/01/30 07:22:59 [notice] 4368#0: gracefully shutting down
+2018/01/30 07:22:59 [notice] 4368#0: exiting
+2018/01/30 07:22:59 [notice] 4368#0: exiting
+2018/01/30 07:22:59 [notice] 4368#0: exit
+2018/01/30 07:22:59 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:22:59 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:22:59 [notice] 2824#0: worker process 4368 exited with code 0
+2018/01/30 07:22:59 [notice] 2824#0: worker process 4368 exited with code 0
+2018/01/30 07:22:59 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:22:59 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:23:32 [error] 4568#0: *46 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:23:32 [error] 4568#0: *46 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:23:32 [error] 4568#0: *46 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:27:37 [emerg] 4774#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:65
+2018/01/30 07:27:37 [emerg] 4781#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:65
+2018/01/30 07:27:50 [notice] 4788#0: signal process started
+2018/01/30 07:27:50 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:27:50 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:27:50 [notice] 2824#0: reconfiguring
+2018/01/30 07:27:50 [notice] 2824#0: reconfiguring
+2018/01/30 07:27:50 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:27:50 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:27:50 [notice] 2824#0: start worker processes
+2018/01/30 07:27:50 [notice] 2824#0: start worker processes
+2018/01/30 07:27:50 [notice] 2824#0: start worker process 4792
+2018/01/30 07:27:50 [notice] 2824#0: start worker process 4792
+2018/01/30 07:27:50 [notice] 4568#0: gracefully shutting down
+2018/01/30 07:27:50 [notice] 4568#0: gracefully shutting down
+2018/01/30 07:27:50 [notice] 4568#0: exiting
+2018/01/30 07:27:50 [notice] 4568#0: exiting
+2018/01/30 07:27:50 [notice] 4568#0: exit
+2018/01/30 07:27:50 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:27:50 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:27:50 [notice] 2824#0: worker process 4568 exited with code 0
+2018/01/30 07:27:50 [notice] 2824#0: worker process 4568 exited with code 0
+2018/01/30 07:27:50 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:27:50 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:28:03 [error] 4792#0: *48 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:28:03 [error] 4792#0: *48 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:28:03 [error] 4792#0: *48 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:29:56 [notice] 4990#0: signal process started
+2018/01/30 07:29:56 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:29:56 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:29:56 [notice] 2824#0: reconfiguring
+2018/01/30 07:29:56 [notice] 2824#0: reconfiguring
+2018/01/30 07:29:56 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:29:56 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:29:56 [notice] 2824#0: start worker processes
+2018/01/30 07:29:56 [notice] 2824#0: start worker processes
+2018/01/30 07:29:56 [notice] 2824#0: start worker process 4994
+2018/01/30 07:29:56 [notice] 2824#0: start worker process 4994
+2018/01/30 07:29:57 [notice] 4792#0: gracefully shutting down
+2018/01/30 07:29:57 [notice] 4792#0: gracefully shutting down
+2018/01/30 07:29:57 [notice] 4792#0: exiting
+2018/01/30 07:29:57 [notice] 4792#0: exiting
+2018/01/30 07:29:57 [notice] 4792#0: exit
+2018/01/30 07:29:57 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:29:57 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:29:57 [notice] 2824#0: worker process 4792 exited with code 0
+2018/01/30 07:29:57 [notice] 2824#0: worker process 4792 exited with code 0
+2018/01/30 07:29:57 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:29:57 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:31:42 [error] 4994#0: *49 open() "/home/uladzislau/nginx/html/555" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /555 HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:31:42 [error] 4994#0: *49 open() "/home/uladzislau/nginx/html/555" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /555 HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:31:42 [error] 4994#0: *49 open() "/home/uladzislau/nginx/html/555" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /555 HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:38:15 [emerg] 5099#0: unknown directive "locationi" in /home/uladzislau/nginx/conf/nginx.conf:43
+2018/01/30 07:38:16 [emerg] 5106#0: unknown directive "locationi" in /home/uladzislau/nginx/conf/nginx.conf:43
+2018/01/30 07:38:16 [emerg] 5113#0: unknown directive "locationi" in /home/uladzislau/nginx/conf/nginx.conf:43
+2018/01/30 07:38:55 [notice] 5120#0: signal process started
+2018/01/30 07:38:55 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:38:55 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:38:55 [notice] 2824#0: reconfiguring
+2018/01/30 07:38:55 [notice] 2824#0: reconfiguring
+2018/01/30 07:38:55 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:38:55 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:38:55 [notice] 2824#0: start worker processes
+2018/01/30 07:38:55 [notice] 2824#0: start worker processes
+2018/01/30 07:38:55 [notice] 2824#0: start worker process 5124
+2018/01/30 07:38:55 [notice] 2824#0: start worker process 5124
+2018/01/30 07:38:55 [notice] 4994#0: gracefully shutting down
+2018/01/30 07:38:55 [notice] 4994#0: gracefully shutting down
+2018/01/30 07:38:55 [notice] 4994#0: exiting
+2018/01/30 07:38:55 [notice] 4994#0: exiting
+2018/01/30 07:38:55 [notice] 4994#0: exit
+2018/01/30 07:38:55 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:38:55 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:38:55 [notice] 2824#0: worker process 4994 exited with code 0
+2018/01/30 07:38:55 [notice] 2824#0: worker process 4994 exited with code 0
+2018/01/30 07:38:55 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:38:55 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:38:55 [notice] 5128#0: signal process started
+2018/01/30 07:38:55 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:38:55 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:38:55 [notice] 2824#0: reconfiguring
+2018/01/30 07:38:55 [notice] 2824#0: reconfiguring
+2018/01/30 07:38:55 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:38:55 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:38:55 [notice] 2824#0: start worker processes
+2018/01/30 07:38:55 [notice] 2824#0: start worker processes
+2018/01/30 07:38:55 [notice] 2824#0: start worker process 5132
+2018/01/30 07:38:55 [notice] 2824#0: start worker process 5132
+2018/01/30 07:38:55 [notice] 5124#0: gracefully shutting down
+2018/01/30 07:38:55 [notice] 5124#0: gracefully shutting down
+2018/01/30 07:38:55 [notice] 5124#0: exiting
+2018/01/30 07:38:55 [notice] 5124#0: exiting
+2018/01/30 07:38:55 [notice] 5124#0: exit
+2018/01/30 07:38:55 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:38:55 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:38:55 [notice] 2824#0: worker process 5124 exited with code 0
+2018/01/30 07:38:55 [notice] 2824#0: worker process 5124 exited with code 0
+2018/01/30 07:38:55 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:38:55 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:38:56 [notice] 5136#0: signal process started
+2018/01/30 07:38:56 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:38:56 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:38:56 [notice] 2824#0: reconfiguring
+2018/01/30 07:38:56 [notice] 2824#0: reconfiguring
+2018/01/30 07:38:56 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:38:56 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:38:56 [notice] 2824#0: start worker processes
+2018/01/30 07:38:56 [notice] 2824#0: start worker processes
+2018/01/30 07:38:56 [notice] 2824#0: start worker process 5140
+2018/01/30 07:38:56 [notice] 2824#0: start worker process 5140
+2018/01/30 07:38:56 [notice] 5132#0: gracefully shutting down
+2018/01/30 07:38:56 [notice] 5132#0: gracefully shutting down
+2018/01/30 07:38:56 [notice] 5132#0: exiting
+2018/01/30 07:38:56 [notice] 5132#0: exiting
+2018/01/30 07:38:56 [notice] 5132#0: exit
+2018/01/30 07:38:56 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:38:56 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:38:56 [notice] 2824#0: worker process 5132 exited with code 0
+2018/01/30 07:38:56 [notice] 2824#0: worker process 5132 exited with code 0
+2018/01/30 07:38:56 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:38:56 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:40:10 [error] 5140#0: *50 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:40:10 [error] 5140#0: *50 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:40:10 [error] 5140#0: *50 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:41:18 [notice] 5319#0: signal process started
+2018/01/30 07:41:18 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:41:18 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:41:18 [notice] 2824#0: reconfiguring
+2018/01/30 07:41:18 [notice] 2824#0: reconfiguring
+2018/01/30 07:41:18 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:41:18 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:41:18 [notice] 2824#0: start worker processes
+2018/01/30 07:41:18 [notice] 2824#0: start worker processes
+2018/01/30 07:41:18 [notice] 2824#0: start worker process 5322
+2018/01/30 07:41:18 [notice] 2824#0: start worker process 5322
+2018/01/30 07:41:18 [notice] 5140#0: gracefully shutting down
+2018/01/30 07:41:18 [notice] 5140#0: gracefully shutting down
+2018/01/30 07:41:18 [notice] 5140#0: exiting
+2018/01/30 07:41:18 [notice] 5140#0: exiting
+2018/01/30 07:41:18 [notice] 5140#0: exit
+2018/01/30 07:41:18 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:41:18 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:41:18 [notice] 2824#0: worker process 5140 exited with code 0
+2018/01/30 07:41:18 [notice] 2824#0: worker process 5140 exited with code 0
+2018/01/30 07:41:18 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:41:18 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:41:25 [error] 5322#0: *51 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:41:25 [error] 5322#0: *51 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:41:25 [error] 5322#0: *51 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:43:15 [notice] 5514#0: signal process started
+2018/01/30 07:43:15 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:43:15 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:43:15 [notice] 2824#0: reconfiguring
+2018/01/30 07:43:15 [notice] 2824#0: reconfiguring
+2018/01/30 07:43:15 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:43:15 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:43:15 [notice] 2824#0: start worker processes
+2018/01/30 07:43:15 [notice] 2824#0: start worker processes
+2018/01/30 07:43:15 [notice] 2824#0: start worker process 5518
+2018/01/30 07:43:15 [notice] 2824#0: start worker process 5518
+2018/01/30 07:43:15 [notice] 5322#0: gracefully shutting down
+2018/01/30 07:43:15 [notice] 5322#0: gracefully shutting down
+2018/01/30 07:43:15 [notice] 5322#0: exiting
+2018/01/30 07:43:15 [notice] 5322#0: exiting
+2018/01/30 07:43:15 [notice] 5322#0: exit
+2018/01/30 07:43:15 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:43:15 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:43:15 [notice] 2824#0: worker process 5322 exited with code 0
+2018/01/30 07:43:15 [notice] 2824#0: worker process 5322 exited with code 0
+2018/01/30 07:43:15 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:43:15 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:43:48 [error] 5518#0: *52 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:43:48 [error] 5518#0: *52 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:43:48 [error] 5518#0: *52 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:45:25 [notice] 5660#0: signal process started
+2018/01/30 07:45:25 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:45:25 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:45:25 [notice] 2824#0: reconfiguring
+2018/01/30 07:45:25 [notice] 2824#0: reconfiguring
+2018/01/30 07:45:25 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:45:25 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:45:25 [notice] 2824#0: start worker processes
+2018/01/30 07:45:25 [notice] 2824#0: start worker processes
+2018/01/30 07:45:25 [notice] 2824#0: start worker process 5664
+2018/01/30 07:45:25 [notice] 2824#0: start worker process 5664
+2018/01/30 07:45:25 [notice] 5518#0: gracefully shutting down
+2018/01/30 07:45:25 [notice] 5518#0: gracefully shutting down
+2018/01/30 07:45:25 [notice] 5518#0: exiting
+2018/01/30 07:45:25 [notice] 5518#0: exiting
+2018/01/30 07:45:25 [notice] 5518#0: exit
+2018/01/30 07:45:25 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:45:25 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:45:25 [notice] 2824#0: worker process 5518 exited with code 0
+2018/01/30 07:45:25 [notice] 2824#0: worker process 5518 exited with code 0
+2018/01/30 07:45:25 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:45:25 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:45:25 [notice] 5668#0: signal process started
+2018/01/30 07:45:25 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:45:25 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:45:25 [notice] 2824#0: reconfiguring
+2018/01/30 07:45:25 [notice] 2824#0: reconfiguring
+2018/01/30 07:45:25 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:45:25 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:45:25 [notice] 2824#0: start worker processes
+2018/01/30 07:45:25 [notice] 2824#0: start worker processes
+2018/01/30 07:45:25 [notice] 2824#0: start worker process 5672
+2018/01/30 07:45:25 [notice] 2824#0: start worker process 5672
+2018/01/30 07:45:26 [notice] 5664#0: gracefully shutting down
+2018/01/30 07:45:26 [notice] 5664#0: gracefully shutting down
+2018/01/30 07:45:26 [notice] 5664#0: exiting
+2018/01/30 07:45:26 [notice] 5664#0: exiting
+2018/01/30 07:45:26 [notice] 5664#0: exit
+2018/01/30 07:45:26 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:45:26 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:45:26 [notice] 2824#0: worker process 5664 exited with code 0
+2018/01/30 07:45:26 [notice] 2824#0: worker process 5664 exited with code 0
+2018/01/30 07:45:26 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:45:26 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:45:26 [notice] 5676#0: signal process started
+2018/01/30 07:45:26 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:45:26 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:45:26 [notice] 2824#0: reconfiguring
+2018/01/30 07:45:26 [notice] 2824#0: reconfiguring
+2018/01/30 07:45:26 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:45:26 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:45:26 [notice] 2824#0: start worker processes
+2018/01/30 07:45:26 [notice] 2824#0: start worker processes
+2018/01/30 07:45:26 [notice] 2824#0: start worker process 5680
+2018/01/30 07:45:26 [notice] 2824#0: start worker process 5680
+2018/01/30 07:45:26 [notice] 5672#0: gracefully shutting down
+2018/01/30 07:45:26 [notice] 5672#0: gracefully shutting down
+2018/01/30 07:45:26 [notice] 5672#0: exiting
+2018/01/30 07:45:26 [notice] 5672#0: exiting
+2018/01/30 07:45:26 [notice] 5672#0: exit
+2018/01/30 07:45:26 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:45:26 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:45:26 [notice] 2824#0: worker process 5672 exited with code 0
+2018/01/30 07:45:26 [notice] 2824#0: worker process 5672 exited with code 0
+2018/01/30 07:45:26 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:45:26 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:45:26 [notice] 5684#0: signal process started
+2018/01/30 07:45:26 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:45:26 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 07:45:26 [notice] 2824#0: reconfiguring
+2018/01/30 07:45:26 [notice] 2824#0: reconfiguring
+2018/01/30 07:45:26 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:45:26 [notice] 2824#0: using the "epoll" event method
+2018/01/30 07:45:26 [notice] 2824#0: start worker processes
+2018/01/30 07:45:26 [notice] 2824#0: start worker processes
+2018/01/30 07:45:26 [notice] 2824#0: start worker process 5688
+2018/01/30 07:45:26 [notice] 2824#0: start worker process 5688
+2018/01/30 07:45:26 [notice] 5680#0: gracefully shutting down
+2018/01/30 07:45:26 [notice] 5680#0: gracefully shutting down
+2018/01/30 07:45:26 [notice] 5680#0: exiting
+2018/01/30 07:45:26 [notice] 5680#0: exiting
+2018/01/30 07:45:26 [notice] 5680#0: exit
+2018/01/30 07:45:26 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:45:26 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 07:45:26 [notice] 2824#0: worker process 5680 exited with code 0
+2018/01/30 07:45:26 [notice] 2824#0: worker process 5680 exited with code 0
+2018/01/30 07:45:26 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:45:26 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 07:45:40 [error] 5688#0: *53 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:45:40 [error] 5688#0: *53 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:45:40 [error] 5688#0: *53 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:47:45 [error] 5688#0: *54 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:47:45 [error] 5688#0: *54 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:47:45 [error] 5688#0: *54 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 07:47:46 [info] 5688#0: *54 no user/password was provided for basic authentication, client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 07:47:54 [error] 5688#0: *54 user "admin": password mismatch, client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 07:47:54 [error] 5688#0: *54 user "admin": password mismatch, client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 07:47:54 [error] 5688#0: *54 user "admin": password mismatch, client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 08:02:11 [emerg] 6369#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:135
+2018/01/30 08:02:32 [info] 5688#0: *56 client 192.168.122.210 closed keepalive connection
+2018/01/30 08:02:47 [error] 5688#0: *57 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:02:47 [error] 5688#0: *57 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:02:47 [error] 5688#0: *57 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:02:47 [error] 5688#0: *57 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:02:47 [error] 5688#0: *57 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:02:47 [error] 5688#0: *57 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:02:48 [info] 5688#0: *57 no user/password was provided for basic authentication, client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 08:03:34 [emerg] 6566#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:135
+2018/01/30 08:05:05 [notice] 6582#0: signal process started
+2018/01/30 08:05:05 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:05:05 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:05:05 [notice] 2824#0: reconfiguring
+2018/01/30 08:05:05 [notice] 2824#0: reconfiguring
+2018/01/30 08:05:05 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:05:05 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:05:05 [notice] 2824#0: start worker processes
+2018/01/30 08:05:05 [notice] 2824#0: start worker processes
+2018/01/30 08:05:05 [notice] 2824#0: start worker process 6584
+2018/01/30 08:05:05 [notice] 2824#0: start worker process 6584
+2018/01/30 08:05:05 [notice] 5688#0: gracefully shutting down
+2018/01/30 08:05:05 [notice] 5688#0: gracefully shutting down
+2018/01/30 08:05:05 [notice] 5688#0: exiting
+2018/01/30 08:05:05 [notice] 5688#0: exiting
+2018/01/30 08:05:05 [notice] 5688#0: exit
+2018/01/30 08:05:05 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:05:05 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:05:05 [notice] 2824#0: worker process 5688 exited with code 0
+2018/01/30 08:05:05 [notice] 2824#0: worker process 5688 exited with code 0
+2018/01/30 08:05:05 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:05:05 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:05:06 [notice] 6590#0: signal process started
+2018/01/30 08:05:06 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:05:06 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:05:06 [notice] 2824#0: reconfiguring
+2018/01/30 08:05:06 [notice] 2824#0: reconfiguring
+2018/01/30 08:05:06 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:05:06 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:05:06 [notice] 2824#0: start worker processes
+2018/01/30 08:05:06 [notice] 2824#0: start worker processes
+2018/01/30 08:05:06 [notice] 2824#0: start worker process 6594
+2018/01/30 08:05:06 [notice] 2824#0: start worker process 6594
+2018/01/30 08:05:06 [notice] 6584#0: gracefully shutting down
+2018/01/30 08:05:06 [notice] 6584#0: gracefully shutting down
+2018/01/30 08:05:06 [notice] 6584#0: exiting
+2018/01/30 08:05:06 [notice] 6584#0: exiting
+2018/01/30 08:05:06 [notice] 6584#0: exit
+2018/01/30 08:05:06 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:05:06 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:05:06 [notice] 2824#0: worker process 6584 exited with code 0
+2018/01/30 08:05:06 [notice] 2824#0: worker process 6584 exited with code 0
+2018/01/30 08:05:06 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:05:06 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:05:06 [notice] 6598#0: signal process started
+2018/01/30 08:05:06 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:05:06 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:05:06 [notice] 2824#0: reconfiguring
+2018/01/30 08:05:06 [notice] 2824#0: reconfiguring
+2018/01/30 08:05:06 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:05:06 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:05:06 [notice] 2824#0: start worker processes
+2018/01/30 08:05:06 [notice] 2824#0: start worker processes
+2018/01/30 08:05:06 [notice] 2824#0: start worker process 6602
+2018/01/30 08:05:06 [notice] 2824#0: start worker process 6602
+2018/01/30 08:05:06 [notice] 6594#0: gracefully shutting down
+2018/01/30 08:05:06 [notice] 6594#0: gracefully shutting down
+2018/01/30 08:05:06 [notice] 6594#0: exiting
+2018/01/30 08:05:06 [notice] 6594#0: exiting
+2018/01/30 08:05:06 [notice] 6594#0: exit
+2018/01/30 08:05:06 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:05:06 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:05:06 [notice] 2824#0: worker process 6594 exited with code 0
+2018/01/30 08:05:06 [notice] 2824#0: worker process 6594 exited with code 0
+2018/01/30 08:05:06 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:05:06 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:22:22 [emerg] 6879#0: invalid number of arguments in "include" directive in /home/uladzislau/nginx/conf/nginx.conf:20
+2018/01/30 08:23:00 [emerg] 6887#0: open() "/home/uladzislau/nginx/conf/vhosts/backeng.conf" failed (2: No such file or directory) in /home/uladzislau/nginx/conf/nginx.conf:19
+2018/01/30 08:24:49 [emerg] 6918#0: unexpected end of file, expecting "}" in /home/uladzislau/nginx/conf/vhosts/backend.conf:40
+2018/01/30 08:25:34 [emerg] 6934#0: unexpected end of file, expecting "}" in /home/uladzislau/nginx/conf/vhosts/backend.conf:40
+2018/01/30 08:26:30 [emerg] 6980#0: unexpected "}" in /home/uladzislau/nginx/conf/nginx.conf:136
+2018/01/30 08:26:51 [notice] 6987#0: signal process started
+2018/01/30 08:26:51 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:26:51 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:26:51 [notice] 2824#0: reconfiguring
+2018/01/30 08:26:51 [notice] 2824#0: reconfiguring
+2018/01/30 08:26:51 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:26:51 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:26:51 [notice] 2824#0: start worker processes
+2018/01/30 08:26:51 [notice] 2824#0: start worker processes
+2018/01/30 08:26:51 [notice] 2824#0: start worker process 6988
+2018/01/30 08:26:51 [notice] 2824#0: start worker process 6988
+2018/01/30 08:26:51 [notice] 6602#0: gracefully shutting down
+2018/01/30 08:26:51 [notice] 6602#0: gracefully shutting down
+2018/01/30 08:26:51 [notice] 6602#0: exiting
+2018/01/30 08:26:51 [notice] 6602#0: exiting
+2018/01/30 08:26:51 [notice] 6602#0: exit
+2018/01/30 08:26:51 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:26:51 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:26:51 [notice] 2824#0: worker process 6602 exited with code 0
+2018/01/30 08:26:51 [notice] 2824#0: worker process 6602 exited with code 0
+2018/01/30 08:26:51 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:26:51 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:26:53 [notice] 6995#0: signal process started
+2018/01/30 08:26:53 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:26:53 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:26:53 [notice] 2824#0: reconfiguring
+2018/01/30 08:26:53 [notice] 2824#0: reconfiguring
+2018/01/30 08:26:53 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:26:53 [notice] 2824#0: using the "epoll" event method
+2018/01/30 08:26:53 [notice] 2824#0: start worker processes
+2018/01/30 08:26:53 [notice] 2824#0: start worker processes
+2018/01/30 08:26:53 [notice] 2824#0: start worker process 6999
+2018/01/30 08:26:53 [notice] 2824#0: start worker process 6999
+2018/01/30 08:26:54 [notice] 6988#0: gracefully shutting down
+2018/01/30 08:26:54 [notice] 6988#0: gracefully shutting down
+2018/01/30 08:26:54 [notice] 6988#0: exiting
+2018/01/30 08:26:54 [notice] 6988#0: exiting
+2018/01/30 08:26:54 [notice] 6988#0: exit
+2018/01/30 08:26:54 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:26:54 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:26:54 [notice] 2824#0: worker process 6988 exited with code 0
+2018/01/30 08:26:54 [notice] 2824#0: worker process 6988 exited with code 0
+2018/01/30 08:26:54 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:26:54 [notice] 2824#0: signal 29 (SIGIO) received
+2018/01/30 08:26:59 [info] 6999#0: *59 no user/password was provided for basic authentication, client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 08:27:27 [notice] 2824#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:27:27 [notice] 2824#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:27:27 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:27:27 [notice] 2824#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 08:27:27 [notice] 6999#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:27:27 [notice] 6999#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:27:27 [notice] 6999#0: signal 1 (SIGHUP) received, ignoring
+2018/01/30 08:27:27 [notice] 6999#0: signal 1 (SIGHUP) received, ignoring
+2018/01/30 08:27:27 [notice] 6999#0: exiting
+2018/01/30 08:27:27 [notice] 6999#0: exiting
+2018/01/30 08:27:27 [notice] 6999#0: exit
+2018/01/30 08:27:27 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:27:27 [notice] 2824#0: signal 17 (SIGCHLD) received
+2018/01/30 08:27:27 [notice] 2824#0: worker process 6999 exited with code 0
+2018/01/30 08:27:27 [notice] 2824#0: worker process 6999 exited with code 0
+2018/01/30 08:27:27 [notice] 2824#0: exit
+2018/01/30 08:27:27 [notice] 2824#0: exit
+2018/01/30 08:49:00 [notice] 3136#0: using the "epoll" event method
+2018/01/30 08:49:00 [notice] 3136#0: using the "epoll" event method
+2018/01/30 08:49:00 [notice] 3136#0: nginx/1.12.2
+2018/01/30 08:49:00 [notice] 3136#0: nginx/1.12.2
+2018/01/30 08:49:00 [notice] 3136#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 08:49:00 [notice] 3136#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 08:49:00 [notice] 3136#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 08:49:00 [notice] 3136#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 08:49:00 [notice] 3136#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 08:49:00 [notice] 3136#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 08:49:00 [notice] 3138#0: start worker processes
+2018/01/30 08:49:00 [notice] 3138#0: start worker processes
+2018/01/30 08:49:00 [notice] 3138#0: start worker process 3139
+2018/01/30 08:49:00 [notice] 3138#0: start worker process 3139
+2018/01/30 08:49:11 [error] 3139#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:49:11 [error] 3139#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:49:11 [error] 3139#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:49:11 [error] 3139#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:49:11 [error] 3139#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:49:11 [error] 3139#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:49:12 [info] 3139#0: *1 no user/password was provided for basic authentication, client: 192.168.122.210, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 08:49:30 [notice] 3139#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:49:30 [notice] 3139#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:49:30 [info] 3139#0: epoll_wait() failed (4: Interrupted system call)
+2018/01/30 08:49:30 [notice] 3139#0: exiting
+2018/01/30 08:49:30 [notice] 3139#0: exiting
+2018/01/30 08:49:30 [notice] 3139#0: exit
+2018/01/30 08:49:30 [notice] 3138#0: signal 17 (SIGCHLD) received
+2018/01/30 08:49:30 [notice] 3138#0: signal 17 (SIGCHLD) received
+2018/01/30 08:49:30 [notice] 3138#0: worker process 3139 exited with code 0
+2018/01/30 08:49:30 [notice] 3138#0: worker process 3139 exited with code 0
+2018/01/30 08:49:30 [notice] 3138#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:49:30 [notice] 3138#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:49:30 [notice] 3138#0: exit
+2018/01/30 08:49:30 [notice] 3138#0: exit
+2018/01/30 08:49:45 [notice] 1197#0: using the "epoll" event method
+2018/01/30 08:49:45 [notice] 1197#0: using the "epoll" event method
+2018/01/30 08:49:45 [notice] 1197#0: nginx/1.12.2
+2018/01/30 08:49:45 [notice] 1197#0: nginx/1.12.2
+2018/01/30 08:49:45 [notice] 1197#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 08:49:45 [notice] 1197#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 08:49:45 [notice] 1197#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 08:49:45 [notice] 1197#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 08:49:45 [notice] 1197#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 08:49:45 [notice] 1197#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 08:49:45 [notice] 1215#0: start worker processes
+2018/01/30 08:49:45 [notice] 1215#0: start worker processes
+2018/01/30 08:49:45 [notice] 1215#0: start worker process 1219
+2018/01/30 08:49:45 [notice] 1215#0: start worker process 1219
+2018/01/30 08:50:16 [error] 1219#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:50:16 [error] 1219#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:50:16 [error] 1219#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:50:16 [error] 1219#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:50:16 [error] 1219#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:50:16 [error] 1219#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/30 08:51:15 [notice] 1219#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:51:15 [notice] 1219#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:51:15 [info] 1219#0: epoll_wait() failed (4: Interrupted system call)
+2018/01/30 08:51:15 [notice] 1219#0: exiting
+2018/01/30 08:51:15 [notice] 1219#0: exiting
+2018/01/30 08:51:15 [notice] 1219#0: exit
+2018/01/30 08:51:15 [notice] 1215#0: signal 17 (SIGCHLD) received
+2018/01/30 08:51:15 [notice] 1215#0: signal 17 (SIGCHLD) received
+2018/01/30 08:51:15 [notice] 1215#0: worker process 1219 exited with code 0
+2018/01/30 08:51:15 [notice] 1215#0: worker process 1219 exited with code 0
+2018/01/30 08:51:15 [notice] 1215#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:51:15 [notice] 1215#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:51:15 [notice] 1215#0: exit
+2018/01/30 08:51:15 [notice] 1215#0: exit
+2018/01/30 08:56:15 [notice] 3027#0: using the "epoll" event method
+2018/01/30 08:56:15 [notice] 3027#0: using the "epoll" event method
+2018/01/30 08:56:15 [notice] 3027#0: nginx/1.12.2
+2018/01/30 08:56:15 [notice] 3027#0: nginx/1.12.2
+2018/01/30 08:56:15 [notice] 3027#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 08:56:15 [notice] 3027#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 08:56:15 [notice] 3027#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 08:56:15 [notice] 3027#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 08:56:15 [notice] 3027#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 08:56:15 [notice] 3027#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 08:56:15 [notice] 3029#0: start worker processes
+2018/01/30 08:56:15 [notice] 3029#0: start worker processes
+2018/01/30 08:56:15 [notice] 3029#0: start worker process 3030
+2018/01/30 08:56:15 [notice] 3029#0: start worker process 3030
+2018/01/30 08:57:45 [notice] 3030#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:57:45 [notice] 3030#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:57:45 [info] 3030#0: epoll_wait() failed (4: Interrupted system call)
+2018/01/30 08:57:45 [notice] 3030#0: exiting
+2018/01/30 08:57:45 [notice] 3030#0: exiting
+2018/01/30 08:57:45 [notice] 3030#0: exit
+2018/01/30 08:57:45 [notice] 3029#0: signal 17 (SIGCHLD) received
+2018/01/30 08:57:45 [notice] 3029#0: signal 17 (SIGCHLD) received
+2018/01/30 08:57:45 [notice] 3029#0: worker process 3030 exited with code 0
+2018/01/30 08:57:45 [notice] 3029#0: worker process 3030 exited with code 0
+2018/01/30 08:57:45 [notice] 3029#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:57:45 [notice] 3029#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 08:57:45 [notice] 3029#0: exit
+2018/01/30 08:57:45 [notice] 3029#0: exit
+2018/01/30 09:02:41 [notice] 3325#0: using the "epoll" event method
+2018/01/30 09:02:41 [notice] 3325#0: using the "epoll" event method
+2018/01/30 09:02:41 [notice] 3325#0: nginx/1.12.2
+2018/01/30 09:02:41 [notice] 3325#0: nginx/1.12.2
+2018/01/30 09:02:41 [notice] 3325#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 09:02:41 [notice] 3325#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 09:02:41 [notice] 3325#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 09:02:41 [notice] 3325#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 09:02:41 [notice] 3325#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 09:02:41 [notice] 3325#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 09:02:41 [notice] 3326#0: start worker processes
+2018/01/30 09:02:41 [notice] 3326#0: start worker processes
+2018/01/30 09:02:41 [notice] 3326#0: start worker process 3328
+2018/01/30 09:02:41 [notice] 3326#0: start worker process 3328
+2018/01/30 09:02:45 [error] 3328#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 09:02:45 [error] 3328#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 09:02:45 [error] 3328#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 09:02:47 [info] 3328#0: *1 no user/password was provided for basic authentication, client: 192.168.122.1, server: 192.168.122.210, request: "GET /admin HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 09:02:52 [error] 3328#0: *1 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 09:02:52 [error] 3328#0: *1 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 09:02:52 [error] 3328#0: *1 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210:8080", referrer: "http://192.168.122.210:8080/"
+2018/01/30 09:03:00 [info] 3328#0: *2 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/30 09:03:00 [info] 3328#0: *3 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/30 09:03:00 [info] 3328#0: *4 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
