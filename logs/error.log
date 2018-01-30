@@ -1349,3 +1349,89 @@
 2018/01/30 09:03:00 [info] 3328#0: *2 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
 2018/01/30 09:03:00 [info] 3328#0: *3 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
 2018/01/30 09:03:00 [info] 3328#0: *4 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/30 09:12:01 [notice] 3326#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:12:01 [notice] 3326#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:12:01 [notice] 3326#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 09:12:01 [notice] 3326#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/30 09:12:01 [notice] 3328#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:12:01 [notice] 3328#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:12:01 [notice] 3328#0: signal 1 (SIGHUP) received, ignoring
+2018/01/30 09:12:01 [notice] 3328#0: signal 1 (SIGHUP) received, ignoring
+2018/01/30 09:12:01 [notice] 3328#0: exiting
+2018/01/30 09:12:01 [notice] 3328#0: exiting
+2018/01/30 09:12:01 [notice] 3328#0: exit
+2018/01/30 09:12:01 [notice] 3326#0: signal 17 (SIGCHLD) received
+2018/01/30 09:12:01 [notice] 3326#0: signal 17 (SIGCHLD) received
+2018/01/30 09:12:01 [notice] 3326#0: worker process 3328 exited with code 0
+2018/01/30 09:12:01 [notice] 3326#0: worker process 3328 exited with code 0
+2018/01/30 09:12:01 [notice] 3326#0: exit
+2018/01/30 09:12:01 [notice] 3326#0: exit
+2018/01/30 09:12:27 [notice] 1089#0: using the "epoll" event method
+2018/01/30 09:12:27 [notice] 1089#0: using the "epoll" event method
+2018/01/30 09:12:27 [notice] 1089#0: nginx/1.12.2
+2018/01/30 09:12:27 [notice] 1089#0: nginx/1.12.2
+2018/01/30 09:12:27 [notice] 1089#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 09:12:27 [notice] 1089#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 09:12:27 [notice] 1089#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 09:12:27 [notice] 1089#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 09:12:27 [notice] 1089#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 09:12:27 [notice] 1089#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 09:12:27 [notice] 1095#0: start worker processes
+2018/01/30 09:12:27 [notice] 1095#0: start worker processes
+2018/01/30 09:12:27 [notice] 1095#0: start worker process 1097
+2018/01/30 09:12:27 [notice] 1095#0: start worker process 1097
+2018/01/30 09:14:14 [notice] 1043#0: using the "epoll" event method
+2018/01/30 09:14:14 [notice] 1043#0: using the "epoll" event method
+2018/01/30 09:14:14 [notice] 1043#0: nginx/1.12.2
+2018/01/30 09:14:14 [notice] 1043#0: nginx/1.12.2
+2018/01/30 09:14:14 [notice] 1043#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 09:14:14 [notice] 1043#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 09:14:14 [notice] 1043#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 09:14:14 [notice] 1043#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 09:14:14 [notice] 1043#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 09:14:14 [notice] 1043#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 09:14:14 [notice] 1054#0: start worker processes
+2018/01/30 09:14:14 [notice] 1054#0: start worker processes
+2018/01/30 09:14:14 [notice] 1054#0: start worker process 1059
+2018/01/30 09:14:14 [notice] 1054#0: start worker process 1059
+2018/01/30 09:15:44 [notice] 1059#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:15:44 [notice] 1059#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:15:44 [info] 1059#0: epoll_wait() failed (4: Interrupted system call)
+2018/01/30 09:15:44 [notice] 1059#0: exiting
+2018/01/30 09:15:44 [notice] 1059#0: exiting
+2018/01/30 09:15:44 [notice] 1059#0: exit
+2018/01/30 09:15:44 [notice] 1054#0: signal 17 (SIGCHLD) received
+2018/01/30 09:15:44 [notice] 1054#0: signal 17 (SIGCHLD) received
+2018/01/30 09:15:44 [notice] 1054#0: worker process 1059 exited with code 0
+2018/01/30 09:15:44 [notice] 1054#0: worker process 1059 exited with code 0
+2018/01/30 09:15:44 [notice] 1054#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:15:44 [notice] 1054#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:15:44 [notice] 1054#0: exit
+2018/01/30 09:15:44 [notice] 1054#0: exit
+2018/01/30 09:17:36 [notice] 1127#0: using the "epoll" event method
+2018/01/30 09:17:36 [notice] 1127#0: using the "epoll" event method
+2018/01/30 09:17:36 [notice] 1127#0: nginx/1.12.2
+2018/01/30 09:17:36 [notice] 1127#0: nginx/1.12.2
+2018/01/30 09:17:36 [notice] 1127#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 09:17:36 [notice] 1127#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/30 09:17:36 [notice] 1127#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 09:17:36 [notice] 1127#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/30 09:17:36 [notice] 1127#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 09:17:36 [notice] 1127#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/30 09:17:36 [notice] 1133#0: start worker processes
+2018/01/30 09:17:36 [notice] 1133#0: start worker processes
+2018/01/30 09:17:36 [notice] 1133#0: start worker process 1147
+2018/01/30 09:17:36 [notice] 1133#0: start worker process 1147
+2018/01/30 09:19:06 [notice] 1133#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:19:06 [notice] 1133#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:19:06 [notice] 1147#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:19:06 [notice] 1147#0: signal 15 (SIGTERM) received, exiting
+2018/01/30 09:19:06 [notice] 1147#0: exiting
+2018/01/30 09:19:06 [notice] 1147#0: exiting
+2018/01/30 09:19:06 [notice] 1147#0: exit
+2018/01/30 09:19:06 [notice] 1133#0: signal 17 (SIGCHLD) received
+2018/01/30 09:19:06 [notice] 1133#0: signal 17 (SIGCHLD) received
+2018/01/30 09:19:06 [notice] 1133#0: worker process 1147 exited with code 0
+2018/01/30 09:19:06 [notice] 1133#0: worker process 1147 exited with code 0
+2018/01/30 09:19:06 [notice] 1133#0: exit
+2018/01/30 09:19:06 [notice] 1133#0: exit
