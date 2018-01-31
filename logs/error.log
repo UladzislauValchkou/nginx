@@ -1435,3 +1435,1042 @@
 2018/01/30 09:19:06 [notice] 1133#0: worker process 1147 exited with code 0
 2018/01/30 09:19:06 [notice] 1133#0: exit
 2018/01/30 09:19:06 [notice] 1133#0: exit
+2018/01/31 03:03:29 [notice] 1528#0: using the "epoll" event method
+2018/01/31 03:03:29 [notice] 1528#0: using the "epoll" event method
+2018/01/31 03:03:29 [notice] 1528#0: nginx/1.12.2
+2018/01/31 03:03:29 [notice] 1528#0: nginx/1.12.2
+2018/01/31 03:03:29 [notice] 1528#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 03:03:29 [notice] 1528#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 03:03:29 [notice] 1528#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 03:03:29 [notice] 1528#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 03:03:29 [notice] 1528#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 03:03:29 [notice] 1528#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 03:03:29 [notice] 1530#0: start worker processes
+2018/01/31 03:03:29 [notice] 1530#0: start worker processes
+2018/01/31 03:03:29 [notice] 1530#0: start worker process 1531
+2018/01/31 03:03:29 [notice] 1530#0: start worker process 1531
+2018/01/31 03:04:59 [notice] 1530#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 03:04:59 [notice] 1530#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 03:04:59 [notice] 1531#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 03:04:59 [notice] 1531#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 03:04:59 [notice] 1531#0: exiting
+2018/01/31 03:04:59 [notice] 1531#0: exiting
+2018/01/31 03:04:59 [notice] 1531#0: exit
+2018/01/31 03:04:59 [notice] 1530#0: signal 17 (SIGCHLD) received
+2018/01/31 03:04:59 [notice] 1530#0: signal 17 (SIGCHLD) received
+2018/01/31 03:04:59 [notice] 1530#0: worker process 1531 exited with code 0
+2018/01/31 03:04:59 [notice] 1530#0: worker process 1531 exited with code 0
+2018/01/31 03:04:59 [notice] 1530#0: exit
+2018/01/31 03:04:59 [notice] 1530#0: exit
+2018/01/31 03:50:13 [notice] 3786#0: using the "epoll" event method
+2018/01/31 03:50:13 [notice] 3786#0: using the "epoll" event method
+2018/01/31 03:50:13 [notice] 3786#0: nginx/1.12.2
+2018/01/31 03:50:13 [notice] 3786#0: nginx/1.12.2
+2018/01/31 03:50:13 [notice] 3786#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 03:50:13 [notice] 3786#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 03:50:13 [notice] 3786#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 03:50:13 [notice] 3786#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 03:50:13 [notice] 3786#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 03:50:13 [notice] 3786#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 03:50:13 [notice] 3787#0: start worker processes
+2018/01/31 03:50:13 [notice] 3787#0: start worker processes
+2018/01/31 03:50:13 [notice] 3787#0: start worker process 3791
+2018/01/31 03:50:13 [notice] 3787#0: start worker process 3791
+2018/01/31 03:50:48 [error] 3791#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:50:48 [error] 3791#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:50:48 [error] 3791#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:50:48 [error] 3791#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:50:48 [error] 3791#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:50:48 [error] 3791#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:51:31 [info] 3791#0: *1 client 192.168.122.210 closed keepalive connection
+2018/01/31 03:51:46 [error] 3791#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:51:46 [error] 3791#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:51:46 [error] 3791#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:51:46 [error] 3791#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:51:46 [error] 3791#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:51:46 [error] 3791#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [emerg] 4605#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [notice] 4605#0: try again to bind() after 500ms
+2018/01/31 03:57:13 [emerg] 4605#0: still could not bind()
+2018/01/31 03:57:13 [emerg] 4605#0: still could not bind()
+2018/01/31 03:57:13 [emerg] 4605#0: still could not bind()
+2018/01/31 03:57:34 [notice] 4626#0: signal process started
+2018/01/31 03:57:34 [notice] 3787#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 03:57:34 [notice] 3787#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 03:57:34 [notice] 3791#0: exiting
+2018/01/31 03:57:34 [notice] 3791#0: exiting
+2018/01/31 03:57:34 [notice] 3791#0: exit
+2018/01/31 03:57:34 [notice] 3787#0: signal 17 (SIGCHLD) received
+2018/01/31 03:57:34 [notice] 3787#0: signal 17 (SIGCHLD) received
+2018/01/31 03:57:34 [notice] 3787#0: worker process 3791 exited with code 0
+2018/01/31 03:57:34 [notice] 3787#0: worker process 3791 exited with code 0
+2018/01/31 03:57:34 [notice] 3787#0: exit
+2018/01/31 03:57:34 [notice] 3787#0: exit
+2018/01/31 03:57:37 [notice] 4633#0: using the "epoll" event method
+2018/01/31 03:57:37 [notice] 4633#0: using the "epoll" event method
+2018/01/31 03:57:37 [notice] 4633#0: nginx/1.12.2
+2018/01/31 03:57:37 [notice] 4633#0: nginx/1.12.2
+2018/01/31 03:57:37 [notice] 4633#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 03:57:37 [notice] 4633#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 03:57:37 [notice] 4633#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 03:57:37 [notice] 4633#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 03:57:37 [notice] 4633#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 03:57:37 [notice] 4633#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 03:57:37 [notice] 4634#0: start worker processes
+2018/01/31 03:57:37 [notice] 4634#0: start worker processes
+2018/01/31 03:57:37 [notice] 4634#0: start worker process 4641
+2018/01/31 03:57:37 [notice] 4634#0: start worker process 4641
+2018/01/31 03:57:56 [error] 4641#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:57:56 [error] 4641#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:57:56 [error] 4641#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:57:56 [error] 4641#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:57:56 [error] 4641#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 03:57:56 [error] 4641#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 04:05:23 [notice] 4634#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:05:23 [notice] 4634#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:05:23 [notice] 4634#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 04:05:23 [notice] 4634#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 04:05:23 [notice] 4641#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:05:23 [notice] 4641#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:05:23 [notice] 4641#0: signal 1 (SIGHUP) received, ignoring
+2018/01/31 04:05:23 [notice] 4641#0: signal 1 (SIGHUP) received, ignoring
+2018/01/31 04:05:23 [notice] 4641#0: exiting
+2018/01/31 04:05:23 [notice] 4641#0: exiting
+2018/01/31 04:05:23 [notice] 4641#0: exit
+2018/01/31 04:05:23 [notice] 4634#0: signal 17 (SIGCHLD) received
+2018/01/31 04:05:23 [notice] 4634#0: signal 17 (SIGCHLD) received
+2018/01/31 04:05:23 [notice] 4634#0: worker process 4641 exited with code 0
+2018/01/31 04:05:23 [notice] 4634#0: worker process 4641 exited with code 0
+2018/01/31 04:05:23 [notice] 4634#0: exit
+2018/01/31 04:05:23 [notice] 4634#0: exit
+2018/01/31 04:05:48 [notice] 1547#0: using the "epoll" event method
+2018/01/31 04:05:48 [notice] 1547#0: using the "epoll" event method
+2018/01/31 04:05:48 [notice] 1547#0: nginx/1.12.2
+2018/01/31 04:05:48 [notice] 1547#0: nginx/1.12.2
+2018/01/31 04:05:48 [notice] 1547#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 04:05:48 [notice] 1547#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 04:05:48 [notice] 1547#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 04:05:48 [notice] 1547#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 04:05:48 [notice] 1547#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 04:05:48 [notice] 1547#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 04:05:48 [notice] 1549#0: start worker processes
+2018/01/31 04:05:48 [notice] 1549#0: start worker processes
+2018/01/31 04:05:48 [notice] 1549#0: start worker process 1550
+2018/01/31 04:05:48 [notice] 1549#0: start worker process 1550
+2018/01/31 04:07:18 [notice] 1549#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:07:18 [notice] 1549#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:07:18 [notice] 1550#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:07:18 [notice] 1550#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:07:18 [notice] 1550#0: exiting
+2018/01/31 04:07:18 [notice] 1550#0: exiting
+2018/01/31 04:07:18 [notice] 1550#0: exit
+2018/01/31 04:07:18 [notice] 1549#0: signal 17 (SIGCHLD) received
+2018/01/31 04:07:18 [notice] 1549#0: signal 17 (SIGCHLD) received
+2018/01/31 04:07:18 [notice] 1549#0: worker process 1550 exited with code 0
+2018/01/31 04:07:18 [notice] 1549#0: worker process 1550 exited with code 0
+2018/01/31 04:07:18 [notice] 1549#0: exit
+2018/01/31 04:07:18 [notice] 1549#0: exit
+2018/01/31 04:14:33 [notice] 3198#0: using the "epoll" event method
+2018/01/31 04:14:33 [notice] 3198#0: using the "epoll" event method
+2018/01/31 04:14:33 [notice] 3198#0: nginx/1.12.2
+2018/01/31 04:14:33 [notice] 3198#0: nginx/1.12.2
+2018/01/31 04:14:33 [notice] 3198#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 04:14:33 [notice] 3198#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 04:14:33 [notice] 3198#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 04:14:33 [notice] 3198#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 04:14:33 [notice] 3198#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 04:14:33 [notice] 3198#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 04:14:33 [notice] 3199#0: start worker processes
+2018/01/31 04:14:33 [notice] 3199#0: start worker processes
+2018/01/31 04:14:33 [notice] 3199#0: start worker process 3201
+2018/01/31 04:14:33 [notice] 3199#0: start worker process 3201
+2018/01/31 04:14:53 [error] 3201#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 04:14:53 [error] 3201#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 04:14:53 [error] 3201#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 04:14:53 [error] 3201#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 04:14:53 [error] 3201#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 04:14:53 [error] 3201#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 04:15:10 [error] 3201#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 04:15:10 [error] 3201#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 04:15:10 [error] 3201#0: *2 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 04:16:10 [info] 3201#0: *3 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:54:13 [notice] 4257#0: signal process started
+2018/01/31 04:54:13 [notice] 3199#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:54:13 [notice] 3199#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:54:13 [notice] 3201#0: exiting
+2018/01/31 04:54:13 [notice] 3201#0: exiting
+2018/01/31 04:54:13 [notice] 3201#0: exit
+2018/01/31 04:54:13 [notice] 3199#0: signal 17 (SIGCHLD) received
+2018/01/31 04:54:13 [notice] 3199#0: signal 17 (SIGCHLD) received
+2018/01/31 04:54:13 [notice] 3199#0: worker process 3201 exited with code 0
+2018/01/31 04:54:13 [notice] 3199#0: worker process 3201 exited with code 0
+2018/01/31 04:54:13 [notice] 3199#0: exit
+2018/01/31 04:54:13 [notice] 3199#0: exit
+2018/01/31 04:54:18 [notice] 4264#0: using the "epoll" event method
+2018/01/31 04:54:18 [notice] 4264#0: using the "epoll" event method
+2018/01/31 04:54:18 [notice] 4264#0: nginx/1.12.2
+2018/01/31 04:54:18 [notice] 4264#0: nginx/1.12.2
+2018/01/31 04:54:18 [notice] 4264#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 04:54:18 [notice] 4264#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 04:54:18 [notice] 4264#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 04:54:18 [notice] 4264#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 04:54:18 [notice] 4264#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 04:54:18 [notice] 4264#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 04:54:18 [notice] 4265#0: start worker processes
+2018/01/31 04:54:18 [notice] 4265#0: start worker processes
+2018/01/31 04:54:18 [notice] 4265#0: start worker process 4272
+2018/01/31 04:54:18 [notice] 4265#0: start worker process 4272
+2018/01/31 04:54:50 [info] 4272#0: *1 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:54:50 [info] 4272#0: *2 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:54:50 [info] 4272#0: *3 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:54:50 [info] 4272#0: *6 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:50 [info] 4272#0: *5 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *8 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *9 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *10 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *11 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *12 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *13 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *14 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *15 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *16 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *17 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *18 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *19 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *20 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *21 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *22 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *23 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *24 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *25 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:54:57 [info] 4272#0: *26 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:55:21 [info] 4272#0: *27 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:55:33 [info] 4272#0: *28 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:22 [info] 4272#0: *32 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 04:56:22 [info] 4272#0: *33 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443", referrer: "http://192.168.122.210:8443/"
+2018/01/31 04:56:29 [info] 4272#0: *30 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:56:29 [info] 4272#0: *31 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:56:29 [info] 4272#0: *34 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:443"
+2018/01/31 04:56:29 [info] 4272#0: *35 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:443", referrer: "http://192.168.122.210:443/"
+2018/01/31 04:56:32 [info] 4272#0: *39 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *40 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *41 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *42 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *43 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *44 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *45 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *46 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *47 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *48 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *49 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *50 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *51 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *52 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *53 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *54 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *55 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *56 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *57 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *58 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *59 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *60 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *61 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:56:32 [info] 4272#0: *62 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:06 [notice] 4332#0: signal process started
+2018/01/31 04:57:06 [notice] 4265#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:57:06 [notice] 4265#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 04:57:06 [notice] 4272#0: exiting
+2018/01/31 04:57:06 [notice] 4272#0: exiting
+2018/01/31 04:57:06 [notice] 4272#0: exit
+2018/01/31 04:57:06 [notice] 4265#0: signal 17 (SIGCHLD) received
+2018/01/31 04:57:06 [notice] 4265#0: signal 17 (SIGCHLD) received
+2018/01/31 04:57:06 [notice] 4265#0: worker process 4272 exited with code 0
+2018/01/31 04:57:06 [notice] 4265#0: worker process 4272 exited with code 0
+2018/01/31 04:57:06 [notice] 4265#0: exit
+2018/01/31 04:57:06 [notice] 4265#0: exit
+2018/01/31 04:57:08 [notice] 4339#0: using the "epoll" event method
+2018/01/31 04:57:08 [notice] 4339#0: using the "epoll" event method
+2018/01/31 04:57:08 [notice] 4339#0: nginx/1.12.2
+2018/01/31 04:57:08 [notice] 4339#0: nginx/1.12.2
+2018/01/31 04:57:08 [notice] 4339#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 04:57:08 [notice] 4339#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 04:57:08 [notice] 4339#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 04:57:08 [notice] 4339#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 04:57:08 [notice] 4339#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 04:57:08 [notice] 4339#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 04:57:08 [notice] 4340#0: start worker processes
+2018/01/31 04:57:08 [notice] 4340#0: start worker processes
+2018/01/31 04:57:08 [notice] 4340#0: start worker process 4342
+2018/01/31 04:57:08 [notice] 4340#0: start worker process 4342
+2018/01/31 04:57:16 [info] 4342#0: *5 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *7 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *8 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *9 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *10 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *11 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *13 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *14 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *15 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *16 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *17 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *18 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *19 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *20 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *21 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *22 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *23 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *24 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *25 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *26 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *27 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *28 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *29 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *30 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:16 [info] 4342#0: *31 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:37 [info] 4342#0: *12 client 192.168.122.1 closed keepalive connection
+2018/01/31 04:57:37 [info] 4342#0: *4 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:57:37 [info] 4342#0: *6 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:57:37 [info] 4342#0: *1 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:57:37 [info] 4342#0: *2 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:57:37 [info] 4342#0: *3 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:57:54 [info] 4342#0: *34 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *35 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *36 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *37 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *38 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *39 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *41 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *42 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *43 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *44 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *45 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:57:54 [info] 4342#0: *46 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 04:58:33 [info] 4342#0: *47 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:58:33 [info] 4342#0: *33 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 04:59:26 [info] 4342#0: *48 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 04:59:26 [info] 4342#0: *49 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 04:59:26 [info] 4342#0: *50 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 04:59:56 [info] 4342#0: *51 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:01:42 [info] 4342#0: *53 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:02:39 [notice] 4451#0: signal process started
+2018/01/31 05:02:39 [notice] 4340#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:02:39 [notice] 4340#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:02:39 [notice] 4342#0: exiting
+2018/01/31 05:02:39 [notice] 4342#0: exiting
+2018/01/31 05:02:39 [notice] 4342#0: exit
+2018/01/31 05:02:39 [notice] 4340#0: signal 17 (SIGCHLD) received
+2018/01/31 05:02:39 [notice] 4340#0: signal 17 (SIGCHLD) received
+2018/01/31 05:02:39 [notice] 4340#0: worker process 4342 exited with code 0
+2018/01/31 05:02:39 [notice] 4340#0: worker process 4342 exited with code 0
+2018/01/31 05:02:39 [notice] 4340#0: exit
+2018/01/31 05:02:39 [notice] 4340#0: exit
+2018/01/31 05:02:42 [notice] 4466#0: using the "epoll" event method
+2018/01/31 05:02:42 [notice] 4466#0: using the "epoll" event method
+2018/01/31 05:02:42 [notice] 4466#0: nginx/1.12.2
+2018/01/31 05:02:42 [notice] 4466#0: nginx/1.12.2
+2018/01/31 05:02:42 [notice] 4466#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:02:42 [notice] 4466#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:02:42 [notice] 4466#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:02:42 [notice] 4466#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:02:42 [notice] 4466#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:02:42 [notice] 4466#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:02:42 [notice] 4467#0: start worker processes
+2018/01/31 05:02:42 [notice] 4467#0: start worker processes
+2018/01/31 05:02:42 [notice] 4467#0: start worker process 4474
+2018/01/31 05:02:42 [notice] 4467#0: start worker process 4474
+2018/01/31 05:03:06 [info] 4474#0: *1 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:03:06 [info] 4474#0: *2 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:03:06 [info] 4474#0: *3 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:04:09 [notice] 4618#0: signal process started
+2018/01/31 05:04:09 [notice] 4467#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:04:09 [notice] 4467#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:04:09 [notice] 4474#0: exiting
+2018/01/31 05:04:09 [notice] 4474#0: exiting
+2018/01/31 05:04:09 [notice] 4474#0: exit
+2018/01/31 05:04:09 [notice] 4467#0: signal 17 (SIGCHLD) received
+2018/01/31 05:04:09 [notice] 4467#0: signal 17 (SIGCHLD) received
+2018/01/31 05:04:09 [notice] 4467#0: worker process 4474 exited with code 0
+2018/01/31 05:04:09 [notice] 4467#0: worker process 4474 exited with code 0
+2018/01/31 05:04:09 [notice] 4467#0: exit
+2018/01/31 05:04:09 [notice] 4467#0: exit
+2018/01/31 05:04:10 [notice] 4625#0: using the "epoll" event method
+2018/01/31 05:04:10 [notice] 4625#0: using the "epoll" event method
+2018/01/31 05:04:10 [notice] 4625#0: nginx/1.12.2
+2018/01/31 05:04:10 [notice] 4625#0: nginx/1.12.2
+2018/01/31 05:04:10 [notice] 4625#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:04:10 [notice] 4625#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:04:10 [notice] 4625#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:04:10 [notice] 4625#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:04:10 [notice] 4625#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:04:10 [notice] 4625#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:04:10 [notice] 4626#0: start worker processes
+2018/01/31 05:04:10 [notice] 4626#0: start worker processes
+2018/01/31 05:04:10 [notice] 4626#0: start worker process 4628
+2018/01/31 05:04:10 [notice] 4626#0: start worker process 4628
+2018/01/31 05:04:32 [info] 4628#0: *2 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:04:32 [info] 4628#0: *8 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:04:32 [info] 4628#0: *9 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443", referrer: "http://192.168.122.210:8443/"
+2018/01/31 05:04:36 [info] 4628#0: *4 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:04:36 [info] 4628#0: *5 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:04:36 [info] 4628#0: *6 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:04:36 [info] 4628#0: *7 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:04:36 [info] 4628#0: *3 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:04:36 [info] 4628#0: *12 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:443"
+2018/01/31 05:04:36 [info] 4628#0: *13 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:443", referrer: "http://192.168.122.210:443/"
+2018/01/31 05:05:32 [info] 4628#0: *10 client timed out (110: Connection timed out) while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 05:05:32 [info] 4628#0: *11 client timed out (110: Connection timed out) while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 05:05:36 [info] 4628#0: *14 client timed out (110: Connection timed out) while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 05:05:36 [info] 4628#0: *15 client timed out (110: Connection timed out) while SSL handshaking, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 05:06:18 [notice] 4670#0: signal process started
+2018/01/31 05:06:18 [notice] 4626#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:06:18 [notice] 4626#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:06:18 [notice] 4628#0: exiting
+2018/01/31 05:06:18 [notice] 4628#0: exiting
+2018/01/31 05:06:18 [notice] 4628#0: exit
+2018/01/31 05:06:18 [notice] 4626#0: signal 17 (SIGCHLD) received
+2018/01/31 05:06:18 [notice] 4626#0: signal 17 (SIGCHLD) received
+2018/01/31 05:06:18 [notice] 4626#0: worker process 4628 exited with code 0
+2018/01/31 05:06:18 [notice] 4626#0: worker process 4628 exited with code 0
+2018/01/31 05:06:18 [notice] 4626#0: exit
+2018/01/31 05:06:18 [notice] 4626#0: exit
+2018/01/31 05:06:20 [notice] 4677#0: using the "epoll" event method
+2018/01/31 05:06:20 [notice] 4677#0: using the "epoll" event method
+2018/01/31 05:06:20 [notice] 4677#0: nginx/1.12.2
+2018/01/31 05:06:20 [notice] 4677#0: nginx/1.12.2
+2018/01/31 05:06:20 [notice] 4677#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:06:20 [notice] 4677#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:06:20 [notice] 4677#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:06:20 [notice] 4677#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:06:20 [notice] 4677#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:06:20 [notice] 4677#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:06:20 [notice] 4678#0: start worker processes
+2018/01/31 05:06:20 [notice] 4678#0: start worker processes
+2018/01/31 05:06:20 [notice] 4678#0: start worker process 4685
+2018/01/31 05:06:20 [notice] 4678#0: start worker process 4685
+2018/01/31 05:06:42 [info] 4685#0: *1 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:06:43 [info] 4685#0: *2 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:06:43 [info] 4685#0: *3 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:12:01 [notice] 4917#0: signal process started
+2018/01/31 05:12:01 [notice] 4678#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:12:01 [notice] 4678#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:12:01 [notice] 4685#0: exiting
+2018/01/31 05:12:01 [notice] 4685#0: exiting
+2018/01/31 05:12:01 [notice] 4685#0: exit
+2018/01/31 05:12:01 [notice] 4678#0: signal 17 (SIGCHLD) received
+2018/01/31 05:12:01 [notice] 4678#0: signal 17 (SIGCHLD) received
+2018/01/31 05:12:01 [notice] 4678#0: worker process 4685 exited with code 0
+2018/01/31 05:12:01 [notice] 4678#0: worker process 4685 exited with code 0
+2018/01/31 05:12:01 [notice] 4678#0: exit
+2018/01/31 05:12:01 [notice] 4678#0: exit
+2018/01/31 05:12:03 [notice] 4924#0: using the "epoll" event method
+2018/01/31 05:12:03 [notice] 4924#0: using the "epoll" event method
+2018/01/31 05:12:03 [notice] 4924#0: nginx/1.12.2
+2018/01/31 05:12:03 [notice] 4924#0: nginx/1.12.2
+2018/01/31 05:12:03 [notice] 4924#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:12:03 [notice] 4924#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:12:03 [notice] 4924#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:12:03 [notice] 4924#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:12:03 [notice] 4924#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:12:03 [notice] 4924#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:12:03 [notice] 4925#0: start worker processes
+2018/01/31 05:12:03 [notice] 4925#0: start worker processes
+2018/01/31 05:12:03 [notice] 4925#0: start worker process 4929
+2018/01/31 05:12:03 [notice] 4925#0: start worker process 4929
+2018/01/31 05:12:06 [info] 4929#0: *1 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:12:08 [info] 4929#0: *2 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:12:31 [info] 4929#0: *3 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET / HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:12:31 [info] 4929#0: *4 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:12:31 [info] 4929#0: *5 client sent plain HTTP request to HTTPS port while reading client request headers, client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8443"
+2018/01/31 05:15:31 [notice] 5124#0: signal process started
+2018/01/31 05:15:31 [notice] 4925#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:15:31 [notice] 4925#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:15:31 [notice] 4929#0: exiting
+2018/01/31 05:15:31 [notice] 4929#0: exiting
+2018/01/31 05:15:31 [notice] 4929#0: exit
+2018/01/31 05:15:31 [notice] 4925#0: signal 17 (SIGCHLD) received
+2018/01/31 05:15:31 [notice] 4925#0: signal 17 (SIGCHLD) received
+2018/01/31 05:15:31 [notice] 4925#0: worker process 4929 exited with code 0
+2018/01/31 05:15:31 [notice] 4925#0: worker process 4929 exited with code 0
+2018/01/31 05:15:31 [notice] 4925#0: exit
+2018/01/31 05:15:31 [notice] 4925#0: exit
+2018/01/31 05:15:33 [notice] 5131#0: using the "epoll" event method
+2018/01/31 05:15:33 [notice] 5131#0: using the "epoll" event method
+2018/01/31 05:15:33 [notice] 5131#0: nginx/1.12.2
+2018/01/31 05:15:33 [notice] 5131#0: nginx/1.12.2
+2018/01/31 05:15:33 [notice] 5131#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:15:33 [notice] 5131#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:15:33 [notice] 5131#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:15:33 [notice] 5131#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:15:33 [notice] 5131#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:15:33 [notice] 5131#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:15:33 [notice] 5132#0: start worker processes
+2018/01/31 05:15:33 [notice] 5132#0: start worker processes
+2018/01/31 05:15:33 [notice] 5132#0: start worker process 5134
+2018/01/31 05:15:33 [notice] 5132#0: start worker process 5134
+2018/01/31 05:15:39 [error] 5134#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 05:15:39 [error] 5134#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 05:15:39 [error] 5134#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 05:16:39 [info] 5134#0: *2 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:27:29 [info] 5134#0: *4 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:27:29 [info] 5134#0: *5 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:27:29 [info] 5134#0: *6 client closed connection while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 05:30:17 [emerg] 5383#0: "upstream" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:14
+2018/01/31 05:30:19 [emerg] 5390#0: "upstream" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:14
+2018/01/31 05:30:26 [error] 5134#0: *7 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:30:26 [error] 5134#0: *7 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:30:26 [error] 5134#0: *7 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:31:35 [emerg] 5412#0: "upstream" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:14
+2018/01/31 05:31:37 [emerg] 5419#0: "upstream" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:14
+2018/01/31 05:31:59 [info] 5134#0: *7 client 192.168.122.1 closed keepalive connection
+2018/01/31 05:32:11 [error] 5134#0: *8 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:32:11 [error] 5134#0: *8 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:32:11 [error] 5134#0: *8 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:32:11 [error] 5134#0: *8 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:32:11 [error] 5134#0: *8 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:32:11 [error] 5134#0: *8 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:36:19 [emerg] 5516#0: "upstream" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:19
+2018/01/31 05:36:23 [emerg] 5523#0: "upstream" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:19
+2018/01/31 05:36:49 [info] 5134#0: *9 client 192.168.122.1 closed keepalive connection
+2018/01/31 05:37:00 [error] 5134#0: *10 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:37:00 [error] 5134#0: *10 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:37:00 [error] 5134#0: *10 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:37:27 [error] 5134#0: *10 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 05:37:27 [error] 5134#0: *10 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 05:37:27 [error] 5134#0: *10 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210", referrer: "http://192.168.122.210/"
+2018/01/31 05:39:07 [error] 5134#0: *11 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 05:39:07 [error] 5134#0: *11 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 05:39:07 [error] 5134#0: *11 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.210, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210:8080"
+2018/01/31 05:40:50 [notice] 5970#0: signal process started
+2018/01/31 05:40:50 [notice] 5132#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:40:50 [notice] 5132#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:40:50 [notice] 5134#0: exiting
+2018/01/31 05:40:50 [notice] 5134#0: exiting
+2018/01/31 05:40:50 [notice] 5134#0: exit
+2018/01/31 05:40:50 [notice] 5132#0: signal 17 (SIGCHLD) received
+2018/01/31 05:40:50 [notice] 5132#0: signal 17 (SIGCHLD) received
+2018/01/31 05:40:50 [notice] 5132#0: worker process 5134 exited with code 0
+2018/01/31 05:40:50 [notice] 5132#0: worker process 5134 exited with code 0
+2018/01/31 05:40:50 [notice] 5132#0: exit
+2018/01/31 05:40:50 [notice] 5132#0: exit
+2018/01/31 05:40:52 [notice] 5977#0: using the "epoll" event method
+2018/01/31 05:40:52 [notice] 5977#0: using the "epoll" event method
+2018/01/31 05:40:52 [notice] 5977#0: nginx/1.12.2
+2018/01/31 05:40:52 [notice] 5977#0: nginx/1.12.2
+2018/01/31 05:40:52 [notice] 5977#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:40:52 [notice] 5977#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:40:52 [notice] 5977#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:40:52 [notice] 5977#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:40:52 [notice] 5977#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:40:52 [notice] 5977#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:40:52 [notice] 5978#0: start worker processes
+2018/01/31 05:40:52 [notice] 5978#0: start worker processes
+2018/01/31 05:40:52 [notice] 5978#0: start worker process 5985
+2018/01/31 05:40:52 [notice] 5978#0: start worker process 5985
+2018/01/31 05:41:17 [error] 5985#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:41:17 [error] 5985#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:41:17 [error] 5985#0: *1 open() "/home/uladzislau/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.210"
+2018/01/31 05:43:29 [emerg] 6034#0: "location" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:6
+2018/01/31 05:44:05 [notice] 6058#0: signal process started
+2018/01/31 05:44:05 [notice] 5978#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:44:05 [notice] 5978#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:44:05 [notice] 5985#0: exiting
+2018/01/31 05:44:05 [notice] 5985#0: exiting
+2018/01/31 05:44:05 [notice] 5985#0: exit
+2018/01/31 05:44:05 [notice] 5978#0: signal 17 (SIGCHLD) received
+2018/01/31 05:44:05 [notice] 5978#0: signal 17 (SIGCHLD) received
+2018/01/31 05:44:05 [notice] 5978#0: worker process 5985 exited with code 0
+2018/01/31 05:44:05 [notice] 5978#0: worker process 5985 exited with code 0
+2018/01/31 05:44:05 [notice] 5978#0: exit
+2018/01/31 05:44:05 [notice] 5978#0: exit
+2018/01/31 05:44:09 [notice] 6065#0: using the "epoll" event method
+2018/01/31 05:44:09 [notice] 6065#0: using the "epoll" event method
+2018/01/31 05:44:09 [notice] 6065#0: nginx/1.12.2
+2018/01/31 05:44:09 [notice] 6065#0: nginx/1.12.2
+2018/01/31 05:44:09 [notice] 6065#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:44:09 [notice] 6065#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:44:09 [notice] 6065#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:44:09 [notice] 6065#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:44:09 [notice] 6065#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:44:09 [notice] 6065#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:44:09 [notice] 6066#0: start worker processes
+2018/01/31 05:44:09 [notice] 6066#0: start worker processes
+2018/01/31 05:44:09 [notice] 6066#0: start worker process 6068
+2018/01/31 05:44:09 [notice] 6066#0: start worker process 6068
+2018/01/31 05:44:29 [error] 6068#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [error] 6068#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [error] 6068#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [warn] 6068#0: *1 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [warn] 6068#0: *1 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [error] 6068#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [error] 6068#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [error] 6068#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [warn] 6068#0: *1 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:44:29 [warn] 6068#0: *1 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:44:30 [error] 6068#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 05:44:30 [error] 6068#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 05:44:30 [error] 6068#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 05:51:56 [emerg] 6217#0: "location" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:56
+2018/01/31 05:52:41 [emerg] 6231#0: "location" directive is not allowed here in /home/uladzislau/nginx/conf/vhosts/backend.conf:56
+2018/01/31 05:53:11 [notice] 6254#0: signal process started
+2018/01/31 05:53:11 [notice] 6066#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:53:11 [notice] 6066#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 05:53:11 [notice] 6068#0: exiting
+2018/01/31 05:53:11 [notice] 6068#0: exiting
+2018/01/31 05:53:11 [notice] 6068#0: exit
+2018/01/31 05:53:11 [notice] 6066#0: signal 17 (SIGCHLD) received
+2018/01/31 05:53:11 [notice] 6066#0: signal 17 (SIGCHLD) received
+2018/01/31 05:53:11 [notice] 6066#0: worker process 6068 exited with code 0
+2018/01/31 05:53:11 [notice] 6066#0: worker process 6068 exited with code 0
+2018/01/31 05:53:11 [notice] 6066#0: exit
+2018/01/31 05:53:11 [notice] 6066#0: exit
+2018/01/31 05:53:17 [notice] 6261#0: using the "epoll" event method
+2018/01/31 05:53:17 [notice] 6261#0: using the "epoll" event method
+2018/01/31 05:53:17 [notice] 6261#0: nginx/1.12.2
+2018/01/31 05:53:17 [notice] 6261#0: nginx/1.12.2
+2018/01/31 05:53:17 [notice] 6261#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:53:17 [notice] 6261#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 05:53:17 [notice] 6261#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:53:17 [notice] 6261#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 05:53:17 [notice] 6261#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:53:17 [notice] 6261#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 05:53:17 [notice] 6262#0: start worker processes
+2018/01/31 05:53:17 [notice] 6262#0: start worker processes
+2018/01/31 05:53:17 [notice] 6262#0: start worker process 6264
+2018/01/31 05:53:17 [notice] 6262#0: start worker process 6264
+2018/01/31 05:53:20 [error] 6264#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [error] 6264#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [error] 6264#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [warn] 6264#0: *1 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [warn] 6264#0: *1 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [error] 6264#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [error] 6264#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [error] 6264#0: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [warn] 6264#0: *1 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:20 [warn] 6264#0: *1 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:21 [error] 6264#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 05:53:21 [error] 6264#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 05:53:21 [error] 6264#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 05:53:23 [error] 6264#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 05:53:23 [error] 6264#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 05:53:23 [error] 6264#0: *1 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 05:53:32 [info] 6264#0: *1 client 192.168.122.1 closed keepalive connection
+2018/01/31 05:53:41 [error] 6264#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [error] 6264#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [error] 6264#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [warn] 6264#0: *4 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [warn] 6264#0: *4 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [error] 6264#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [error] 6264#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [error] 6264#0: *4 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [warn] 6264#0: *4 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [warn] 6264#0: *4 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:80/", host: "192.168.122.210"
+2018/01/31 05:53:41 [error] 6264#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 05:53:41 [error] 6264#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 05:53:41 [error] 6264#0: *4 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:18:54 [warn] 6674#0: server name "/home/uladzislau/server.crt" has suspicious symbols in /home/uladzislau/nginx/conf/vhosts/backend.conf:19
+2018/01/31 06:18:54 [emerg] 6674#0: unexpected end of file, expecting "}" in /home/uladzislau/nginx/conf/vhosts/backend.conf:40
+2018/01/31 06:19:13 [warn] 6688#0: server name "/home/uladzislau/server.crt" has suspicious symbols in /home/uladzislau/nginx/conf/vhosts/backend.conf:19
+2018/01/31 06:19:13 [notice] 6688#0: signal process started
+2018/01/31 06:19:13 [notice] 6262#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 06:19:13 [notice] 6262#0: signal 15 (SIGTERM) received, exiting
+2018/01/31 06:19:13 [notice] 6264#0: exiting
+2018/01/31 06:19:13 [notice] 6264#0: exiting
+2018/01/31 06:19:13 [notice] 6264#0: exit
+2018/01/31 06:19:13 [notice] 6262#0: signal 17 (SIGCHLD) received
+2018/01/31 06:19:13 [notice] 6262#0: signal 17 (SIGCHLD) received
+2018/01/31 06:19:13 [notice] 6262#0: worker process 6264 exited with code 0
+2018/01/31 06:19:13 [notice] 6262#0: worker process 6264 exited with code 0
+2018/01/31 06:19:13 [notice] 6262#0: exit
+2018/01/31 06:19:13 [notice] 6262#0: exit
+2018/01/31 06:19:35 [notice] 6702#0: signal process started
+2018/01/31 06:19:35 [error] 6702#0: open() "/home/uladzislau/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/01/31 06:20:02 [notice] 6736#0: signal process started
+2018/01/31 06:20:02 [error] 6736#0: open() "/home/uladzislau/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/01/31 06:21:12 [notice] 6759#0: signal process started
+2018/01/31 06:21:12 [error] 6759#0: open() "/home/uladzislau/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/01/31 06:23:28 [notice] 6827#0: signal process started
+2018/01/31 06:23:28 [error] 6827#0: invalid PID number "
+
+
+
+
+
+<!DOCTYPE html>" in "/home/uladzislau/nginx/logs/nginx.pid"
+2018/01/31 06:26:01 [notice] 6868#0: signal process started
+2018/01/31 06:26:01 [error] 6868#0: open() "/home/uladzislau/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/01/31 06:26:05 [notice] 6875#0: signal process started
+2018/01/31 06:26:05 [error] 6875#0: open() "/home/uladzislau/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/01/31 06:27:19 [notice] 6899#0: using the "epoll" event method
+2018/01/31 06:27:19 [notice] 6899#0: using the "epoll" event method
+2018/01/31 06:27:19 [notice] 6899#0: nginx/1.12.2
+2018/01/31 06:27:19 [notice] 6899#0: nginx/1.12.2
+2018/01/31 06:27:19 [notice] 6899#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 06:27:19 [notice] 6899#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-16) (GCC) 
+2018/01/31 06:27:19 [notice] 6899#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 06:27:19 [notice] 6899#0: OS: Linux 3.10.0-693.el7.x86_64
+2018/01/31 06:27:19 [notice] 6899#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 06:27:19 [notice] 6899#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2018/01/31 06:27:19 [notice] 6900#0: start worker processes
+2018/01/31 06:27:19 [notice] 6900#0: start worker processes
+2018/01/31 06:27:19 [notice] 6900#0: start worker process 6902
+2018/01/31 06:27:19 [notice] 6900#0: start worker process 6902
+2018/01/31 06:28:11 [info] 6902#0: *5 SSL_read() failed (SSL: error:14094418:SSL routines:ssl3_read_bytes:tlsv1 alert unknown ca:SSL alert number 48) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 06:28:19 [info] 6902#0: *6 SSL_read() failed (SSL: error:14094418:SSL routines:ssl3_read_bytes:tlsv1 alert unknown ca:SSL alert number 48) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8443
+2018/01/31 06:28:21 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [warn] 6902#0: *7 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [warn] 6902#0: *7 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [warn] 6902#0: *7 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:21 [warn] 6902#0: *7 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:22 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "https://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:28:22 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "https://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:28:22 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "https://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:28:22 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "https://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:28:22 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "https://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:28:22 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "https://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:28:27 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:28:27 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:28:27 [error] 6902#0: *7 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:28:51 [info] 6902#0: *1 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 06:28:51 [info] 6902#0: *2 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 06:28:51 [info] 6902#0: *3 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 06:28:58 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [warn] 6902#0: *7 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [warn] 6902#0: *7 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [error] 6902#0: *7 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [warn] 6902#0: *7 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:28:58 [warn] 6902#0: *7 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:30:46 [error] 6902#0: *12 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210"
+2018/01/31 06:30:46 [error] 6902#0: *12 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210"
+2018/01/31 06:30:46 [error] 6902#0: *12 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210"
+2018/01/31 06:30:52 [error] 6902#0: *12 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [error] 6902#0: *12 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [error] 6902#0: *12 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [warn] 6902#0: *12 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [warn] 6902#0: *12 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [error] 6902#0: *12 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [error] 6902#0: *12 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [error] 6902#0: *12 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [warn] 6902#0: *12 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:30:52 [warn] 6902#0: *12 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:30:53 [error] 6902#0: *12 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:30:53 [error] 6902#0: *12 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:30:53 [error] 6902#0: *12 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "https://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:33:24 [notice] 7013#0: signal process started
+2018/01/31 06:33:24 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 06:33:24 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 06:33:24 [notice] 6900#0: reconfiguring
+2018/01/31 06:33:24 [notice] 6900#0: reconfiguring
+2018/01/31 06:33:24 [notice] 6900#0: using the "epoll" event method
+2018/01/31 06:33:24 [notice] 6900#0: using the "epoll" event method
+2018/01/31 06:33:24 [notice] 6900#0: start worker processes
+2018/01/31 06:33:24 [notice] 6900#0: start worker processes
+2018/01/31 06:33:24 [notice] 6900#0: start worker process 7014
+2018/01/31 06:33:24 [notice] 6900#0: start worker process 7014
+2018/01/31 06:33:24 [notice] 6902#0: gracefully shutting down
+2018/01/31 06:33:24 [notice] 6902#0: gracefully shutting down
+2018/01/31 06:33:24 [notice] 6902#0: exiting
+2018/01/31 06:33:24 [notice] 6902#0: exiting
+2018/01/31 06:33:24 [notice] 6902#0: exit
+2018/01/31 06:33:24 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 06:33:24 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 06:33:24 [notice] 6900#0: worker process 6902 exited with code 0
+2018/01/31 06:33:24 [notice] 6900#0: worker process 6902 exited with code 0
+2018/01/31 06:33:24 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 06:33:24 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 06:33:29 [error] 7014#0: *15 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [error] 7014#0: *15 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [error] 7014#0: *15 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [warn] 7014#0: *15 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [warn] 7014#0: *15 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [error] 7014#0: *15 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [error] 7014#0: *15 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [error] 7014#0: *15 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [warn] 7014#0: *15 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:29 [warn] 7014#0: *15 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:39 [info] 7014#0: *15 client 192.168.122.1 closed keepalive connection
+2018/01/31 06:33:51 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [warn] 7014#0: *19 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [warn] 7014#0: *19 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [warn] 7014#0: *19 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:51 [warn] 7014#0: *19 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:33:53 [error] 7014#0: *19 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:33:53 [error] 7014#0: *19 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:33:53 [error] 7014#0: *19 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:34:04 [error] 7014#0: *19 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210"
+2018/01/31 06:34:04 [error] 7014#0: *19 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210"
+2018/01/31 06:34:04 [error] 7014#0: *19 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210"
+2018/01/31 06:34:09 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [warn] 7014#0: *19 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [warn] 7014#0: *19 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [error] 7014#0: *19 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [warn] 7014#0: *19 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:34:09 [warn] 7014#0: *19 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:38:47 [notice] 7087#0: signal process started
+2018/01/31 06:38:47 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 06:38:47 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 06:38:47 [notice] 6900#0: reconfiguring
+2018/01/31 06:38:47 [notice] 6900#0: reconfiguring
+2018/01/31 06:38:47 [notice] 6900#0: using the "epoll" event method
+2018/01/31 06:38:47 [notice] 6900#0: using the "epoll" event method
+2018/01/31 06:38:47 [notice] 6900#0: start worker processes
+2018/01/31 06:38:47 [notice] 6900#0: start worker processes
+2018/01/31 06:38:47 [notice] 6900#0: start worker process 7088
+2018/01/31 06:38:47 [notice] 6900#0: start worker process 7088
+2018/01/31 06:38:47 [notice] 7014#0: gracefully shutting down
+2018/01/31 06:38:47 [notice] 7014#0: gracefully shutting down
+2018/01/31 06:38:47 [notice] 7014#0: exiting
+2018/01/31 06:38:47 [notice] 7014#0: exiting
+2018/01/31 06:38:47 [notice] 7014#0: exit
+2018/01/31 06:38:47 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 06:38:47 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 06:38:47 [notice] 6900#0: worker process 7014 exited with code 0
+2018/01/31 06:38:47 [notice] 6900#0: worker process 7014 exited with code 0
+2018/01/31 06:38:47 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 06:38:47 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 06:38:53 [error] 7088#0: *24 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [error] 7088#0: *24 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [error] 7088#0: *24 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [warn] 7088#0: *24 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [warn] 7088#0: *24 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [error] 7088#0: *24 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [error] 7088#0: *24 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [error] 7088#0: *24 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [warn] 7088#0: *24 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:38:53 [warn] 7088#0: *24 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:38:55 [error] 7088#0: *24 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:38:55 [error] 7088#0: *24 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:38:55 [error] 7088#0: *24 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:41:39 [emerg] 7135#0: host not found in upstream "backened" in /home/uladzislau/nginx/conf/vhosts/backend.conf:25
+2018/01/31 06:42:08 [notice] 7150#0: signal process started
+2018/01/31 06:42:08 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 06:42:08 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 06:42:08 [notice] 6900#0: reconfiguring
+2018/01/31 06:42:08 [notice] 6900#0: reconfiguring
+2018/01/31 06:42:08 [notice] 6900#0: using the "epoll" event method
+2018/01/31 06:42:08 [notice] 6900#0: using the "epoll" event method
+2018/01/31 06:42:08 [notice] 6900#0: start worker processes
+2018/01/31 06:42:08 [notice] 6900#0: start worker processes
+2018/01/31 06:42:08 [notice] 6900#0: start worker process 7152
+2018/01/31 06:42:08 [notice] 6900#0: start worker process 7152
+2018/01/31 06:42:08 [notice] 7088#0: gracefully shutting down
+2018/01/31 06:42:08 [notice] 7088#0: gracefully shutting down
+2018/01/31 06:42:08 [notice] 7088#0: exiting
+2018/01/31 06:42:08 [notice] 7088#0: exiting
+2018/01/31 06:42:08 [notice] 7088#0: exit
+2018/01/31 06:42:08 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 06:42:08 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 06:42:08 [notice] 6900#0: worker process 7088 exited with code 0
+2018/01/31 06:42:08 [notice] 6900#0: worker process 7088 exited with code 0
+2018/01/31 06:42:08 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 06:42:08 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 06:42:27 [error] 7152#0: *27 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [error] 7152#0: *27 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [error] 7152#0: *27 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [warn] 7152#0: *27 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [warn] 7152#0: *27 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [error] 7152#0: *27 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [error] 7152#0: *27 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [error] 7152#0: *27 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [warn] 7152#0: *27 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:42:27 [warn] 7152#0: *27 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:42:28 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:42:28 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:42:28 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:42:30 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:42:30 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:42:30 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://backend/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:42:33 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.210"
+2018/01/31 06:42:33 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.210"
+2018/01/31 06:42:33 [error] 7152#0: *27 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://backend/", host: "192.168.122.210"
+2018/01/31 06:43:54 [notice] 7174#0: signal process started
+2018/01/31 06:43:54 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 06:43:54 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 06:43:54 [notice] 6900#0: reconfiguring
+2018/01/31 06:43:54 [notice] 6900#0: reconfiguring
+2018/01/31 06:43:54 [notice] 6900#0: using the "epoll" event method
+2018/01/31 06:43:54 [notice] 6900#0: using the "epoll" event method
+2018/01/31 06:43:54 [notice] 6900#0: start worker processes
+2018/01/31 06:43:54 [notice] 6900#0: start worker processes
+2018/01/31 06:43:54 [notice] 6900#0: start worker process 7178
+2018/01/31 06:43:54 [notice] 6900#0: start worker process 7178
+2018/01/31 06:43:54 [notice] 7152#0: gracefully shutting down
+2018/01/31 06:43:54 [notice] 7152#0: gracefully shutting down
+2018/01/31 06:43:54 [notice] 7152#0: exiting
+2018/01/31 06:43:54 [notice] 7152#0: exiting
+2018/01/31 06:43:54 [notice] 7152#0: exit
+2018/01/31 06:43:54 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 06:43:54 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 06:43:54 [notice] 6900#0: worker process 7152 exited with code 0
+2018/01/31 06:43:54 [notice] 6900#0: worker process 7152 exited with code 0
+2018/01/31 06:43:54 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 06:43:54 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 06:44:01 [error] 7178#0: *31 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [error] 7178#0: *31 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [error] 7178#0: *31 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [warn] 7178#0: *31 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [warn] 7178#0: *31 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [error] 7178#0: *31 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [error] 7178#0: *31 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [error] 7178#0: *31 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [warn] 7178#0: *31 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:01 [warn] 7178#0: *31 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:04 [error] 7178#0: *31 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:44:04 [error] 7178#0: *31 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:44:04 [error] 7178#0: *31 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.210/", host: "192.168.122.210"
+2018/01/31 06:44:13 [info] 7178#0: *31 client 192.168.122.1 closed keepalive connection
+2018/01/31 06:44:22 [error] 7178#0: *35 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [error] 7178#0: *35 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [error] 7178#0: *35 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [warn] 7178#0: *35 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [warn] 7178#0: *35 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.251:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [error] 7178#0: *35 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [error] 7178#0: *35 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [error] 7178#0: *35 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [warn] 7178#0: *35 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:22 [warn] 7178#0: *35 upstream server temporarily disabled while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET / HTTP/1.1", upstream: "http://192.168.122.189:8080/", host: "192.168.122.210"
+2018/01/31 06:44:24 [error] 7178#0: *35 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:44:24 [error] 7178#0: *35 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:44:24 [error] 7178#0: *35 no live upstreams while connecting to upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.122.210/favicon.ico", host: "192.168.122.210"
+2018/01/31 06:58:36 [info] 7178#0: *38 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 06:58:36 [info] 7178#0: *39 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 07:00:14 [warn] 7178#0: *41 an upstream response is buffered to a temporary file /home/uladzislau/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", upstream: "http://192.168.122.189:8080/pictures/01.gif", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:00:14 [warn] 7178#0: *41 an upstream response is buffered to a temporary file /home/uladzislau/nginx/proxy_temp/1/00/0000000001 while reading upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", upstream: "http://192.168.122.189:8080/pictures/01.gif", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:00:49 [info] 7178#0: *40 client timed out (110: Connection timed out) while waiting for request, client: 192.168.122.1, server: 0.0.0.0:8080
+2018/01/31 07:01:03 [error] 7178#0: *41 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:01:03 [error] 7178#0: *41 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:01:03 [error] 7178#0: *41 access forbidden by rule, client: 192.168.122.1, server: 192.168.122.210, request: "GET /status HTTP/1.1", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:01:53 [notice] 7626#0: signal process started
+2018/01/31 07:01:53 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 07:01:53 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 07:01:53 [notice] 6900#0: reconfiguring
+2018/01/31 07:01:53 [notice] 6900#0: reconfiguring
+2018/01/31 07:01:53 [notice] 6900#0: using the "epoll" event method
+2018/01/31 07:01:53 [notice] 6900#0: using the "epoll" event method
+2018/01/31 07:01:53 [notice] 6900#0: start worker processes
+2018/01/31 07:01:53 [notice] 6900#0: start worker processes
+2018/01/31 07:01:53 [notice] 6900#0: start worker process 7630
+2018/01/31 07:01:53 [notice] 6900#0: start worker process 7630
+2018/01/31 07:01:53 [notice] 7178#0: gracefully shutting down
+2018/01/31 07:01:53 [notice] 7178#0: gracefully shutting down
+2018/01/31 07:01:53 [notice] 7178#0: exiting
+2018/01/31 07:01:53 [notice] 7178#0: exiting
+2018/01/31 07:01:53 [notice] 7178#0: exit
+2018/01/31 07:01:53 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 07:01:53 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 07:01:53 [notice] 6900#0: worker process 7178 exited with code 0
+2018/01/31 07:01:53 [notice] 6900#0: worker process 7178 exited with code 0
+2018/01/31 07:01:53 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 07:01:53 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 07:06:45 [notice] 7708#0: signal process started
+2018/01/31 07:06:45 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 07:06:45 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 07:06:45 [notice] 6900#0: reconfiguring
+2018/01/31 07:06:45 [notice] 6900#0: reconfiguring
+2018/01/31 07:06:45 [notice] 6900#0: using the "epoll" event method
+2018/01/31 07:06:45 [notice] 6900#0: using the "epoll" event method
+2018/01/31 07:06:45 [notice] 6900#0: start worker processes
+2018/01/31 07:06:45 [notice] 6900#0: start worker processes
+2018/01/31 07:06:45 [notice] 6900#0: start worker process 7709
+2018/01/31 07:06:45 [notice] 6900#0: start worker process 7709
+2018/01/31 07:06:45 [notice] 7630#0: gracefully shutting down
+2018/01/31 07:06:45 [notice] 7630#0: gracefully shutting down
+2018/01/31 07:06:45 [notice] 7630#0: exiting
+2018/01/31 07:06:45 [notice] 7630#0: exiting
+2018/01/31 07:06:45 [notice] 7630#0: exit
+2018/01/31 07:06:45 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 07:06:45 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 07:06:45 [notice] 6900#0: worker process 7630 exited with code 0
+2018/01/31 07:06:45 [notice] 6900#0: worker process 7630 exited with code 0
+2018/01/31 07:06:45 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 07:06:45 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 07:09:30 [notice] 7737#0: signal process started
+2018/01/31 07:09:30 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 07:09:30 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 07:09:30 [notice] 6900#0: reconfiguring
+2018/01/31 07:09:30 [notice] 6900#0: reconfiguring
+2018/01/31 07:09:30 [notice] 6900#0: using the "epoll" event method
+2018/01/31 07:09:30 [notice] 6900#0: using the "epoll" event method
+2018/01/31 07:09:30 [notice] 6900#0: start worker processes
+2018/01/31 07:09:30 [notice] 6900#0: start worker processes
+2018/01/31 07:09:30 [notice] 6900#0: start worker process 7738
+2018/01/31 07:09:30 [notice] 6900#0: start worker process 7738
+2018/01/31 07:09:30 [notice] 7709#0: gracefully shutting down
+2018/01/31 07:09:30 [notice] 7709#0: gracefully shutting down
+2018/01/31 07:09:30 [notice] 7709#0: exiting
+2018/01/31 07:09:30 [notice] 7709#0: exiting
+2018/01/31 07:09:30 [notice] 7709#0: exit
+2018/01/31 07:09:30 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 07:09:30 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 07:09:30 [notice] 6900#0: worker process 7709 exited with code 0
+2018/01/31 07:09:30 [notice] 6900#0: worker process 7709 exited with code 0
+2018/01/31 07:09:30 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 07:09:30 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 07:18:33 [notice] 8028#0: signal process started
+2018/01/31 07:18:33 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 07:18:33 [notice] 6900#0: signal 1 (SIGHUP) received, reconfiguring
+2018/01/31 07:18:33 [notice] 6900#0: reconfiguring
+2018/01/31 07:18:33 [notice] 6900#0: reconfiguring
+2018/01/31 07:18:33 [notice] 6900#0: using the "epoll" event method
+2018/01/31 07:18:33 [notice] 6900#0: using the "epoll" event method
+2018/01/31 07:18:33 [notice] 6900#0: start worker processes
+2018/01/31 07:18:33 [notice] 6900#0: start worker processes
+2018/01/31 07:18:33 [notice] 6900#0: start worker process 8032
+2018/01/31 07:18:33 [notice] 6900#0: start worker process 8032
+2018/01/31 07:18:33 [notice] 7738#0: gracefully shutting down
+2018/01/31 07:18:33 [notice] 7738#0: gracefully shutting down
+2018/01/31 07:18:33 [notice] 7738#0: exiting
+2018/01/31 07:18:33 [notice] 7738#0: exiting
+2018/01/31 07:18:33 [notice] 7738#0: exit
+2018/01/31 07:18:33 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 07:18:33 [notice] 6900#0: signal 17 (SIGCHLD) received
+2018/01/31 07:18:33 [notice] 6900#0: worker process 7738 exited with code 0
+2018/01/31 07:18:33 [notice] 6900#0: worker process 7738 exited with code 0
+2018/01/31 07:18:33 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 07:18:33 [notice] 6900#0: signal 29 (SIGIO) received
+2018/01/31 07:46:11 [warn] 8032#0: *63 an upstream response is buffered to a temporary file /home/uladzislau/nginx/proxy_temp/2/00/0000000002 while reading upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", upstream: "http://192.168.122.189:8080/pictures/01.gif", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:46:11 [warn] 8032#0: *63 an upstream response is buffered to a temporary file /home/uladzislau/nginx/proxy_temp/2/00/0000000002 while reading upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", upstream: "http://192.168.122.189:8080/pictures/01.gif", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:46:25 [warn] 8032#0: *63 an upstream response is buffered to a temporary file /home/uladzislau/nginx/proxy_temp/3/00/0000000003 while reading upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", upstream: "http://192.168.122.251:8080/pictures/01.gif", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:46:25 [warn] 8032#0: *63 an upstream response is buffered to a temporary file /home/uladzislau/nginx/proxy_temp/3/00/0000000003 while reading upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", upstream: "http://192.168.122.251:8080/pictures/01.gif", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:46:33 [warn] 8032#0: *63 an upstream response is buffered to a temporary file /home/uladzislau/nginx/proxy_temp/4/00/0000000004 while reading upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", upstream: "http://192.168.122.251:8080/pictures/01.gif", host: "192.168.122.210", referrer: "https://192.168.122.210/"
+2018/01/31 07:46:33 [warn] 8032#0: *63 an upstream response is buffered to a temporary file /home/uladzislau/nginx/proxy_temp/4/00/0000000004 while reading upstream, client: 192.168.122.1, server: 192.168.122.210, request: "GET /pictures/01.gif HTTP/1.1", upstream: "http://192.168.122.251:8080/pictures/01.gif", host: "192.168.122.210", referrer: "https://192.168.122.210/"
